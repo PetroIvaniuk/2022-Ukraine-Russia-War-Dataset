@@ -1,6 +1,6 @@
 # 2022-Ukraine-Russia-War-Dataset
 
-<img src="https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/images/dataset_2022_war_ukraine_russia.png" alt="drawing" width="900"/>
+<img src="https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/images/dataset_2022_war_ukraine_russia.png" alt="drawing" width="1000"/>
 
 This is the dataset that describes Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians in 2022 Ukraine russia War.
 All data are official and additionally structured by myself. Source of data [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). 
@@ -12,7 +12,13 @@ All russians Prisoner of War (POW) tracked here [invaders](https://invaders-rf.c
 It's the same data as on [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) but in JSON format. 
 You can also find here a few visualization notebooks.
 
+### Data
 **Important.** Each new record is accumulated data from previous days.
+
+[Data Personnel](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_personnel.json)
+
+[Data Equipment](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment.json)
+
 
 ### Tracking
 - Personnel
@@ -35,8 +41,5 @@ You can also find here a few visualization notebooks.
 - BUK - Buk Missile System,
 - APC  - Armored Personnel Carrier,
 - drone: UAV - Unmanned Aerial Vehicle, RPA - Remotely Piloted Vehicle.
-
-### Dataset History
-2022-03-02 - dataset is created (7 day of the War).
 
 ### Data will be updated daily. 
