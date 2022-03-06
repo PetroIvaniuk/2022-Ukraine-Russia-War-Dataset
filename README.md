@@ -10,7 +10,7 @@ A lot of civilians and children have already been killed by russia troops. We ar
 All russians Prisoner of War (POW) tracked here [invaders](https://invaders-rf.com/).
 
 It's the same data as on [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) but in JSON format. 
-You can also find here a few visualization notebooks.
+You can also find on Kaggle a few visualization notebooks.
 
 ### Data
 **Important.** Each new record is accumulated data from previous days.
