@@ -1,5 +1,7 @@
 # 2022-Ukraine-Russia-War-Dataset
 
+<img src="https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/images/dataset_2022_war_ukraine_russia.png" alt="drawing" width="800"/>
+
 This is the dataset that describes Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians in 2022 Ukraine russia War.
 All data are official and additionally structured by myself. Source of data [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). 
 Ministry of Defence of Ukraine gathered data from different points of the country that are in war flame and under missile attack now. 
