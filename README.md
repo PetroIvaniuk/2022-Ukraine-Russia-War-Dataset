@@ -6,7 +6,7 @@ This is the dataset that describes Equipment Losses & Death Toll & Military Woun
 All data are official and additionally structured by myself. 
 A lot of civilians and children have already been killed by russia troops. Ukraine is in war flame and under missile attack now. We are strong. Stand with Ukraine. #StandWithUkraine, @StandWithUkraine
 
-### Data Sources:
+### Data Sources
 1. Main data source is [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). Ministry of Defence of Ukraine gathered data from different points of the country.
 2. All russians Prisoner of War (POW) tracked here [invaders](https://invaders-rf.com/).
 3. Ukraine and russia Equipment Losses [oryxspioenkop](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html). This list only includes destroyed vehicles and equipment of which photo or videographic evidence is available. Therefore, the amount of equipment destroyed is significantly higher than recorded here.
