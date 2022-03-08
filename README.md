@@ -2,18 +2,19 @@
 
 <img src="https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/images/dataset_2022_war_ukraine_russia.png" alt="drawing" width="1000"/>
 
-This is the dataset that describes Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians in 2022 Ukraine russia War.
-All data are official and additionally structured by myself. Source of data [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). 
-Ministry of Defence of Ukraine gathered data from different points of the country that are in war flame and under missile attack now. 
-A lot of civilians and children have already been killed by russia troops. We are strong. Stand with Ukraine.
+This is the dataset that describes Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians in 2022 Ukraine russia War. 
+All data are official and additionally structured by myself. 
+A lot of civilians and children have already been killed by russia troops. Ukraine is in war flame and under missile attack now. We are strong. Stand with Ukraine. #StandWithUkraine, @StandWithUkraine
 
-All russians Prisoner of War (POW) tracked here [invaders](https://invaders-rf.com/).
-
-It's the same data as on [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) but in JSON format. 
-You can also find on Kaggle a few visualization notebooks.
+### Data Sources:
+1. Main data source is [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). Ministry of Defence of Ukraine gathered data from different points of the country.
+2. All russians Prisoner of War (POW) tracked here [invaders](https://invaders-rf.com/).
+3. Ukraine and russia Equipment Losses [oryxspioenkop](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html). This list only includes destroyed vehicles and equipment of which photo or videographic evidence is available. Therefore, the amount of equipment destroyed is significantly higher than recorded here.
+4. The same data in csv format you can find on [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war). You can also find on Kaggle a few notebooks with analysis and visualisation.
 
 ### Data
 **Important.** Each new record is accumulated data from previous days.
+**Important.** Data will be updated daily
 
 [Data Personnel](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_personnel.json)
 
@@ -41,5 +42,3 @@ You can also find on Kaggle a few visualization notebooks.
 - BUK - Buk Missile System,
 - APC  - Armored Personnel Carrier,
 - drone: UAV - Unmanned Aerial Vehicle, RPA - Remotely Piloted Vehicle.
-
-### Data will be updated daily. 
