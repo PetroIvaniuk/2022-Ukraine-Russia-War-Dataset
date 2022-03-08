@@ -14,6 +14,7 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 
 ### Data
 **Important.** Each new record is accumulated data from previous days.
+
 **Important.** Data will be updated daily
 
 [Data Personnel](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_personnel.json)
