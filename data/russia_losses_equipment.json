@@ -158,5 +158,21 @@
         "drone": 7,
         "naval ship": 3,
         "anti-aircraft warfare": 27
+    },
+    {
+        "date": "2022-03-09",
+        "day": "14",
+        "aircraft": 49,
+        "helicopter": 81,
+        "tank": 317,
+        "APC": 1070,
+        "field artillery": 120,
+        "BUK": 1,
+        "MRL": 56,
+        "military auto": 482,
+        "fuel tank": 60,
+        "drone": 7,
+        "naval ship": 3,
+        "anti-aircraft warfare": 28
     }
 ]
