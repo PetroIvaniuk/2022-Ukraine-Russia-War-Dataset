@@ -96,5 +96,12 @@
         "personnel": 12000,
         "personnel*": "more than",
         "POW": 389
+    },
+    {
+        "date": "2022-03-15",
+        "day": "20",
+        "personnel": 13500,
+        "personnel*": "more than",
+        "POW": 389
     }
 ]
