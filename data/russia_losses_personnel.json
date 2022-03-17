@@ -33,82 +33,92 @@
     {
         "date": "2022-03-05",
         "day": "10",
-        "personnel": 10000
+        "personnel": 10000,
+        "personnel*": "about",
+        "POW": 216
     },
     {
         "date": "2022-03-06",
         "day": "11",
         "personnel": 11000,
-        "personnel*": "almost"
+        "personnel*": "about",
+        "POW": 232
     },
     {
         "date": "2022-03-07",
         "day": "12",
         "personnel": 11000,
-        "personnel*": "more than",
+        "personnel*": "more",
         "POW": 259
     },
     {
         "date": "2022-03-08",
         "day": "13",
         "personnel": 12000,
-        "personnel*": "almost",
+        "personnel*": "about",
         "POW": 284
     },
     {
         "date": "2022-03-09",
         "day": "14",
         "personnel": 12000,
-        "personnel*": "almost",
+        "personnel*": "about",
         "POW": 360
     },
     {
         "date": "2022-03-10",
         "day": "15",
         "personnel": 12000,
-        "personnel*": "more than",
+        "personnel*": "more",
         "POW": 371
     },
     {
         "date": "2022-03-11",
         "day": "16",
         "personnel": 12000,
-        "personnel*": "more than",
+        "personnel*": "more",
         "POW": 389
     },
     {
         "date": "2022-03-12",
         "day": "17",
         "personnel": 12000,
-        "personnel*": "more than",
+        "personnel*": "more",
         "POW": 389
     },
     {
         "date": "2022-03-13",
         "day": "18",
         "personnel": 12000,
-        "personnel*": "more than",
+        "personnel*": "more",
         "POW": 389
     },
     {
         "date": "2022-03-14",
         "day": "19",
         "personnel": 12000,
-        "personnel*": "more than",
+        "personnel*": "more",
         "POW": 389
     },
     {
         "date": "2022-03-15",
         "day": "20",
         "personnel": 13500,
-        "personnel*": "almost",
+        "personnel*": "about",
         "POW": 389
     },
     {
         "date": "2022-03-16",
         "day": "21",
         "personnel": 13800,
-        "personnel*": "almost",
+        "personnel*": "about",
         "POW": 389
+    },
+    {
+        "date": "2022-03-17",
+        "day": "22",
+        "personnel": 14000,
+        "personnel*": "about",
+        "POW": 405
     }
 ]
