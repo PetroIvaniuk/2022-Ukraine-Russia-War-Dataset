@@ -2,33 +2,42 @@
     {
         "date": "2022-02-26",
         "day": "3",
-        "personnel": 4300
+        "personnel": 4300,
+        "personnel*": "about"
     },
     {
         "date": "2022-02-28",
         "day": "5",
-        "personnel": 5300
+        "personnel": 5300,
+        "personnel*": "about"
     },
     {
         "date": "2022-03-01",
         "day": "6",
         "personnel": 5710,
+        "personnel*": "about",
         "POW": 200
     },
     {
         "date": "2022-03-02",
         "day": "7",
-        "personnel": 5840
+        "personnel": 5840,
+        "personnel*": "about",
+        "POW": 200
     },
     {
         "date": "2022-03-03",
         "day": "8",
-        "personnel": 9000
+        "personnel": 9000,
+        "personnel*": "about",
+        "POW": 200
     },
     {
         "date": "2022-03-04",
         "day": "9",
-        "personnel": 9166
+        "personnel": 9166,
+        "personnel*": "about",
+        "POW": 200
     },
     {
         "date": "2022-03-05",
@@ -118,6 +127,13 @@
         "date": "2022-03-17",
         "day": "22",
         "personnel": 14000,
+        "personnel*": "about",
+        "POW": 405
+    },
+    {
+        "date": "2022-03-18",
+        "day": "23",
+        "personnel": 14200,
         "personnel*": "about",
         "POW": 405
     }
