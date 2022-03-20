@@ -1,5 +1,20 @@
 [
     {
+        "date": "2022-02-25",
+        "day": 2,
+        "aircraft": 10,
+        "helicopter": 7,
+        "tank": 80,
+        "APC": 516,
+        "field artillery": 49,
+        "MRL": 4,
+        "military auto": 100,
+        "fuel tank": 60,
+        "drone": 0,
+        "naval ship": 2,
+        "anti-aircraft warfare": 0
+    },
+    {
         "date": "2022-02-26",
         "day": 3,
         "aircraft": 27,
@@ -8,7 +23,22 @@
         "APC": 706,
         "field artillery": 49,
         "MRL": 4,
-        "military auto": 30,
+        "military auto": 130,
+        "fuel tank": 60,
+        "drone": 2,
+        "naval ship": 2,
+        "anti-aircraft warfare": 0
+    },
+    {
+        "date": "2022-02-27",
+        "day": 4,
+        "aircraft": 27,
+        "helicopter": 26,
+        "tank": 150,
+        "APC": 706,
+        "field artillery": 50,
+        "MRL": 4,
+        "military auto": 130,
         "fuel tank": 60,
         "drone": 2,
         "naval ship": 2,
@@ -317,5 +347,21 @@
         "naval ship": 3,
         "anti-aircraft warfare": 44,
         "special equipment": 11
+    },
+    {
+        "date": "2022-03-20",
+        "day": 25,
+        "aircraft": 96,
+        "helicopter": 118,
+        "tank": 476,
+        "APC": 1487,
+        "field artillery": 230,
+        "MRL": 74,
+        "military auto": 947,
+        "fuel tank": 60,
+        "drone": 21,
+        "naval ship": 3,
+        "anti-aircraft warfare": 44,
+        "special equipment": 12
     }
 ]

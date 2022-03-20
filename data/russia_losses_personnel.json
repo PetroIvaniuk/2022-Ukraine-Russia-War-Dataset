@@ -1,15 +1,31 @@
 [
     {
+        "date": "2022-02-25",
+        "day": 2,
+        "personnel": 2800,
+        "personnel*": "about",
+        "POW": 0
+    },
+    {
         "date": "2022-02-26",
         "day": 3,
         "personnel": 4300,
-        "personnel*": "about"
+        "personnel*": "about",
+        "POW": 0
+    },
+    {
+        "date": "2022-02-27",
+        "day": 4,
+        "personnel": 4500,
+        "personnel*": "about",
+        "POW": 0
     },
     {
         "date": "2022-02-28",
         "day": 5,
         "personnel": 5300,
-        "personnel*": "about"
+        "personnel*": "about",
+        "POW": 0
     },
     {
         "date": "2022-03-01",
@@ -141,6 +157,13 @@
         "date": "2022-03-19",
         "day": 24,
         "personnel": 14400,
+        "personnel*": "about",
+        "POW": 405
+    },
+    {
+        "date": "2022-03-20",
+        "day": 25,
+        "personnel": 14700,
         "personnel*": "about",
         "POW": 405
     }
