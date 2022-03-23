@@ -44,4 +44,6 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 - POW - Prisoner of War,
 - MRL - Multiple Rocket Launcher,
 - APC - Armored Personnel Carrier,
-- drones: UAV - Unmanned Aerial Vehicle, RPA - Remotely Piloted Vehicle.
+- drones: 
+  - UAV - Unmanned Aerial Vehicle, 
+  - RPA - Remotely Piloted Vehicle.
