@@ -13,8 +13,8 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 4. [liveuamap](https://liveuamap.com/) - Live Interactive Map with events that happened.
 5. [Correctiv](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/) - Live monitoring of all sanctions against Russia.
 6. [Reuters](https://graphics.reuters.com/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/index.html) - Tracking sanctions against Russia.
-6. [Help to stop Russian war against Ukraine](https://www.kaggle.com/general/310445) - Kaggle Petition.
-7. [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data in CSV format. You can also find on [Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) notebooks with analysis and visualisation.
+7. [Help to stop Russian war against Ukraine](https://www.kaggle.com/general/310445) - Kaggle Petition.
+8. [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data in CSV format. You can also find on [Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) notebooks with analysis and visualisation.
 
 ### Data
 **Important.** Each new record is accumulated data from previous days.
