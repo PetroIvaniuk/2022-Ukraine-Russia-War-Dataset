@@ -411,5 +411,21 @@
         "naval ship": 4,
         "anti-aircraft warfare": 47,
         "special equipment": 15
+    },
+    {
+        "date": "2022-03-24",
+        "day": 29,
+        "aircraft": 108,
+        "helicopter": 124,
+        "tank": 530,
+        "APC": 1597,
+        "field artillery": 280,
+        "MRL": 82,
+        "military auto": 1033,
+        "fuel tank": 72,
+        "drone": 50,
+        "naval ship": 4,
+        "anti-aircraft warfare": 47,
+        "special equipment": 16
     }
 ]
