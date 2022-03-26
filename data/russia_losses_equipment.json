@@ -427,5 +427,38 @@
         "naval ship": 4,
         "anti-aircraft warfare": 47,
         "special equipment": 16
+    },
+    {
+        "date": "2022-03-25",
+        "day": 30,
+        "aircraft": 115,
+        "helicopter": 125,
+        "tank": 561,
+        "APC": 1625,
+        "field artillery": 291,
+        "MRL": 90,
+        "military auto": 1089,
+        "fuel tank": 72,
+        "drone": 53,
+        "naval ship": 5,
+        "anti-aircraft warfare": 49,
+        "special equipment": 18
+    },
+    {
+        "date": "2022-03-26",
+        "day": 31,
+        "aircraft": 117,
+        "helicopter": 127,
+        "tank": 575,
+        "APC": 1640,
+        "field artillery": 293,
+        "MRL": 91,
+        "military auto": 1131,
+        "fuel tank": 73,
+        "drone": 56,
+        "naval ship": 7,
+        "anti-aircraft warfare": 51,
+        "special equipment": 19,
+        "mobile SRBM system": 2
     }
 ]
