@@ -8,13 +8,15 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 
 ### Data Sources
 1. Main data sources are [Armed Forces of Ukraine](https://www.zsu.gov.ua/en) and [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). They gathered data from different points of the country. The calculation is complicated by the high intensity of hostilities.
-2. [invaders](https://invaders-rf.com/) - All russians Prisoner of War (POW).
-3. [oryxspioenkop](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html) - Ukraine and russia Equipment Losses. This list only includes destroyed vehicles and equipment of which photo or videographic evidence is available. Therefore, the amount of equipment destroyed is significantly higher than recorded here.
-4. [liveuamap](https://liveuamap.com/) - Live Interactive Map with events that happened.
-5. [Correctiv](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/) - Live monitoring of all sanctions against Russia.
-6. [Reuters](https://graphics.reuters.com/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/index.html) - Tracking sanctions against Russia.
-7. [Help to stop Russian war against Ukraine](https://www.kaggle.com/general/310445) - Kaggle Petition.
-8. [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data in CSV format. You can also find on [Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) notebooks with analysis and visualisation.
+2. [Invaders](https://invaders-rf.com/) - Russians Prisoner of War (POW).
+3. [Oryxspioenkop](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html) - Ukraine and russia Equipment Losses. This list only includes destroyed vehicles and equipment of which photo or videographic evidence is available. Therefore, the amount of equipment destroyed is significantly higher than recorded here.
+4. [Liveuamap](https://liveuamap.com/) - Live Interactive Map with events that happened.
+5. [Live monitoring of all sanctions against Russia](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/) - Correctiv.
+6. [Tracking sanctions against Russia](https://graphics.reuters.com/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/index.html) - Reuters.
+7. [Russia’s Attacks on Civilian Targets Have Obliterated Everyday Life in Ukraine](https://www.nytimes.com/interactive/2022/03/23/world/europe/ukraine-civilian-attacks.html) - NYTimes.
+8. [Help to stop Russian war against Ukraine](https://www.kaggle.com/general/310445) - Kaggle Petition.
+9. [Dataset Social Media Athletes from russia & belarus](https://www.kaggle.com/datasets/piterfm/olympic-athletes-social-media-russia-belarus) - Social Media of russia and belarus athletes that took part in Beijing 2022 Olympic Winter Games.
+10. [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data in CSV format. You can also find on [Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) notebooks with analysis and visualisation.
 
 ### Data
 **Important.** Each new record is accumulated data from previous days.
