@@ -16,7 +16,7 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 7. [Russia’s Attacks on Civilian Targets Have Obliterated Everyday Life in Ukraine](https://www.nytimes.com/interactive/2022/03/23/world/europe/ukraine-civilian-attacks.html) - NYTimes.
 8. [Help to stop Russian war against Ukraine](https://www.kaggle.com/general/310445) - Kaggle Petition.
 9. [Dataset Social Media Athletes from russia & belarus](https://www.kaggle.com/datasets/piterfm/olympic-athletes-social-media-russia-belarus) - Social Media of russia and belarus athletes that took part in Beijing 2022 Olympic Winter Games.
-10. [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data in CSV format. You can also find on [Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) notebooks with analysis and visualisation.
+10. [Kaggle](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data in CSV format. You can also look on [Kaggle notebooks](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) with analysis and visualisation.
 
 ### Data
 **Important.** Each new record is accumulated data from previous days.
