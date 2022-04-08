@@ -1,303 +1,305 @@
-[
-    {
-        "date": "2022-02-25",
-        "day": 2,
-        "personnel": 2800,
-        "personnel*": "about",
-        "POW": 0
-    },
-    {
-        "date": "2022-02-26",
-        "day": 3,
-        "personnel": 4300,
-        "personnel*": "about",
-        "POW": 0
-    },
-    {
-        "date": "2022-02-27",
-        "day": 4,
-        "personnel": 4500,
-        "personnel*": "about",
-        "POW": 0
-    },
-    {
-        "date": "2022-02-28",
-        "day": 5,
-        "personnel": 5300,
-        "personnel*": "about",
-        "POW": 0
-    },
-    {
-        "date": "2022-03-01",
-        "day": 6,
-        "personnel": 5710,
-        "personnel*": "about",
-        "POW": 200
-    },
-    {
-        "date": "2022-03-02",
-        "day": 7,
-        "personnel": 5840,
-        "personnel*": "about",
-        "POW": 200
-    },
-    {
-        "date": "2022-03-03",
-        "day": 8,
-        "personnel": 9000,
-        "personnel*": "about",
-        "POW": 200
-    },
-    {
-        "date": "2022-03-04",
-        "day": 9,
-        "personnel": 9166,
-        "personnel*": "about",
-        "POW": 200
-    },
-    {
-        "date": "2022-03-05",
-        "day": 10,
-        "personnel": 10000,
-        "personnel*": "about",
-        "POW": 216
-    },
-    {
-        "date": "2022-03-06",
-        "day": 11,
-        "personnel": 11000,
-        "personnel*": "about",
-        "POW": 232
-    },
-    {
-        "date": "2022-03-07",
-        "day": 12,
-        "personnel": 11000,
-        "personnel*": "more",
-        "POW": 259
-    },
-    {
-        "date": "2022-03-08",
-        "day": 13,
-        "personnel": 12000,
-        "personnel*": "about",
-        "POW": 284
-    },
-    {
-        "date": "2022-03-09",
-        "day": 14,
-        "personnel": 12000,
-        "personnel*": "about",
-        "POW": 360
-    },
-    {
-        "date": "2022-03-10",
-        "day": 15,
-        "personnel": 12000,
-        "personnel*": "more",
-        "POW": 371
-    },
-    {
-        "date": "2022-03-11",
-        "day": 16,
-        "personnel": 12000,
-        "personnel*": "more",
-        "POW": 389
-    },
-    {
-        "date": "2022-03-12",
-        "day": 17,
-        "personnel": 12000,
-        "personnel*": "more",
-        "POW": 389
-    },
-    {
-        "date": "2022-03-13",
-        "day": 18,
-        "personnel": 12000,
-        "personnel*": "more",
-        "POW": 389
-    },
-    {
-        "date": "2022-03-14",
-        "day": 19,
-        "personnel": 12000,
-        "personnel*": "more",
-        "POW": 389
-    },
-    {
-        "date": "2022-03-15",
-        "day": 20,
-        "personnel": 13500,
-        "personnel*": "about",
-        "POW": 389
-    },
-    {
-        "date": "2022-03-16",
-        "day": 21,
-        "personnel": 13800,
-        "personnel*": "about",
-        "POW": 389
-    },
-    {
-        "date": "2022-03-17",
-        "day": 22,
-        "personnel": 14000,
-        "personnel*": "about",
-        "POW": 405
-    },
-    {
-        "date": "2022-03-18",
-        "day": 23,
-        "personnel": 14200,
-        "personnel*": "about",
-        "POW": 405
-    },
-    {
-        "date": "2022-03-19",
-        "day": 24,
-        "personnel": 14400,
-        "personnel*": "about",
-        "POW": 405
-    },
-    {
-        "date": "2022-03-20",
-        "day": 25,
-        "personnel": 14700,
-        "personnel*": "about",
-        "POW": 405
-    },
-    {
-        "date": "2022-03-21",
-        "day": 26,
-        "personnel": 15000,
-        "personnel*": "about",
-        "POW": 405
-    },
-    {
-        "date": "2022-03-22",
-        "day": 27,
-        "personnel": 15300,
-        "personnel*": "about",
-        "POW": 411
-    },
-    {
-        "date": "2022-03-23",
-        "day": 28,
-        "personnel": 15600,
-        "personnel*": "about",
-        "POW": 412
-    },
-    {
-        "date": "2022-03-24",
-        "day": 29,
-        "personnel": 15800,
-        "personnel*": "about",
-        "POW": 412
-    },
-    {
-        "date": "2022-03-25",
-        "day": 30,
-        "personnel": 16100,
-        "personnel*": "about",
-        "POW": 412
-    },
-    {
-        "date": "2022-03-26",
-        "day": 31,
-        "personnel": 16400,
-        "personnel*": "about",
-        "POW": 412
-    },
-    {
-        "date": "2022-03-27",
-        "day": 32,
-        "personnel": 16600,
-        "personnel*": "about",
-        "POW": 421
-    },
-    {
-        "date": "2022-03-28",
-        "day": 33,
-        "personnel": 17000,
-        "personnel*": "about",
-        "POW": 421
-    },
-    {
-        "date": "2022-03-29",
-        "day": 34,
-        "personnel": 17200,
-        "personnel*": "about",
-        "POW": 430
-    },
-    {
-        "date": "2022-03-30",
-        "day": 35,
-        "personnel": 17300,
-        "personnel*": "about",
-        "POW": 430
-    },
-    {
-        "date": "2022-03-31",
-        "day": 36,
-        "personnel": 17500,
-        "personnel*": "about",
-        "POW": 459
-    },
-    {
-        "date": "2022-04-01",
-        "day": 37,
-        "personnel": 17700,
-        "personnel*": "about",
-        "POW": 459
-    },
-    {
-        "date": "2022-04-02",
-        "day": 38,
-        "personnel": 17700,
-        "personnel*": "about",
-        "POW": 460
-    },
-    {
-        "date": "2022-04-03",
-        "day": 39,
-        "personnel": 18000,
-        "personnel*": "about",
-        "POW": 460
-    },
-    {
-        "date": "2022-04-04",
-        "day": 40,
-        "personnel": 18300,
-        "personnel*": "about",
-        "POW": 460
-    },
-    {
-        "date": "2022-04-05",
-        "day": 41,
-        "personnel": 18500,
-        "personnel*": "about",
-        "POW": 467
-    },
-    {
-        "date": "2022-04-06",
-        "day": 42,
-        "personnel": 18600,
-        "personnel*": "about",
-        "POW": 467
-    },
-    {
-        "date": "2022-04-07",
-        "day": 43,
-        "personnel": 18900,
-        "personnel*": "about",
-        "POW": 467
-    },
-    {
-        "date": "2022-04-08",
-        "day": 44,
-        "personnel": 19000,
-        "personnel*": "about",
-        "POW": 467
-    }
-]
+{
+    "data": [
+        {
+            "date": "2022-02-25",
+            "day": 2,
+            "personnel": 2800,
+            "personnel*": "about",
+            "POW": 0
+        },
+        {
+            "date": "2022-02-26",
+            "day": 3,
+            "personnel": 4300,
+            "personnel*": "about",
+            "POW": 0
+        },
+        {
+            "date": "2022-02-27",
+            "day": 4,
+            "personnel": 4500,
+            "personnel*": "about",
+            "POW": 0
+        },
+        {
+            "date": "2022-02-28",
+            "day": 5,
+            "personnel": 5300,
+            "personnel*": "about",
+            "POW": 0
+        },
+        {
+            "date": "2022-03-01",
+            "day": 6,
+            "personnel": 5710,
+            "personnel*": "about",
+            "POW": 200
+        },
+        {
+            "date": "2022-03-02",
+            "day": 7,
+            "personnel": 5840,
+            "personnel*": "about",
+            "POW": 200
+        },
+        {
+            "date": "2022-03-03",
+            "day": 8,
+            "personnel": 9000,
+            "personnel*": "about",
+            "POW": 200
+        },
+        {
+            "date": "2022-03-04",
+            "day": 9,
+            "personnel": 9166,
+            "personnel*": "about",
+            "POW": 200
+        },
+        {
+            "date": "2022-03-05",
+            "day": 10,
+            "personnel": 10000,
+            "personnel*": "about",
+            "POW": 216
+        },
+        {
+            "date": "2022-03-06",
+            "day": 11,
+            "personnel": 11000,
+            "personnel*": "about",
+            "POW": 232
+        },
+        {
+            "date": "2022-03-07",
+            "day": 12,
+            "personnel": 11000,
+            "personnel*": "more",
+            "POW": 259
+        },
+        {
+            "date": "2022-03-08",
+            "day": 13,
+            "personnel": 12000,
+            "personnel*": "about",
+            "POW": 284
+        },
+        {
+            "date": "2022-03-09",
+            "day": 14,
+            "personnel": 12000,
+            "personnel*": "about",
+            "POW": 360
+        },
+        {
+            "date": "2022-03-10",
+            "day": 15,
+            "personnel": 12000,
+            "personnel*": "more",
+            "POW": 371
+        },
+        {
+            "date": "2022-03-11",
+            "day": 16,
+            "personnel": 12000,
+            "personnel*": "more",
+            "POW": 389
+        },
+        {
+            "date": "2022-03-12",
+            "day": 17,
+            "personnel": 12000,
+            "personnel*": "more",
+            "POW": 389
+        },
+        {
+            "date": "2022-03-13",
+            "day": 18,
+            "personnel": 12000,
+            "personnel*": "more",
+            "POW": 389
+        },
+        {
+            "date": "2022-03-14",
+            "day": 19,
+            "personnel": 12000,
+            "personnel*": "more",
+            "POW": 389
+        },
+        {
+            "date": "2022-03-15",
+            "day": 20,
+            "personnel": 13500,
+            "personnel*": "about",
+            "POW": 389
+        },
+        {
+            "date": "2022-03-16",
+            "day": 21,
+            "personnel": 13800,
+            "personnel*": "about",
+            "POW": 389
+        },
+        {
+            "date": "2022-03-17",
+            "day": 22,
+            "personnel": 14000,
+            "personnel*": "about",
+            "POW": 405
+        },
+        {
+            "date": "2022-03-18",
+            "day": 23,
+            "personnel": 14200,
+            "personnel*": "about",
+            "POW": 405
+        },
+        {
+            "date": "2022-03-19",
+            "day": 24,
+            "personnel": 14400,
+            "personnel*": "about",
+            "POW": 405
+        },
+        {
+            "date": "2022-03-20",
+            "day": 25,
+            "personnel": 14700,
+            "personnel*": "about",
+            "POW": 405
+        },
+        {
+            "date": "2022-03-21",
+            "day": 26,
+            "personnel": 15000,
+            "personnel*": "about",
+            "POW": 405
+        },
+        {
+            "date": "2022-03-22",
+            "day": 27,
+            "personnel": 15300,
+            "personnel*": "about",
+            "POW": 411
+        },
+        {
+            "date": "2022-03-23",
+            "day": 28,
+            "personnel": 15600,
+            "personnel*": "about",
+            "POW": 412
+        },
+        {
+            "date": "2022-03-24",
+            "day": 29,
+            "personnel": 15800,
+            "personnel*": "about",
+            "POW": 412
+        },
+        {
+            "date": "2022-03-25",
+            "day": 30,
+            "personnel": 16100,
+            "personnel*": "about",
+            "POW": 412
+        },
+        {
+            "date": "2022-03-26",
+            "day": 31,
+            "personnel": 16400,
+            "personnel*": "about",
+            "POW": 412
+        },
+        {
+            "date": "2022-03-27",
+            "day": 32,
+            "personnel": 16600,
+            "personnel*": "about",
+            "POW": 421
+        },
+        {
+            "date": "2022-03-28",
+            "day": 33,
+            "personnel": 17000,
+            "personnel*": "about",
+            "POW": 421
+        },
+        {
+            "date": "2022-03-29",
+            "day": 34,
+            "personnel": 17200,
+            "personnel*": "about",
+            "POW": 430
+        },
+        {
+            "date": "2022-03-30",
+            "day": 35,
+            "personnel": 17300,
+            "personnel*": "about",
+            "POW": 430
+        },
+        {
+            "date": "2022-03-31",
+            "day": 36,
+            "personnel": 17500,
+            "personnel*": "about",
+            "POW": 459
+        },
+        {
+            "date": "2022-04-01",
+            "day": 37,
+            "personnel": 17700,
+            "personnel*": "about",
+            "POW": 459
+        },
+        {
+            "date": "2022-04-02",
+            "day": 38,
+            "personnel": 17700,
+            "personnel*": "about",
+            "POW": 460
+        },
+        {
+            "date": "2022-04-03",
+            "day": 39,
+            "personnel": 18000,
+            "personnel*": "about",
+            "POW": 460
+        },
+        {
+            "date": "2022-04-04",
+            "day": 40,
+            "personnel": 18300,
+            "personnel*": "about",
+            "POW": 460
+        },
+        {
+            "date": "2022-04-05",
+            "day": 41,
+            "personnel": 18500,
+            "personnel*": "about",
+            "POW": 467
+        },
+        {
+            "date": "2022-04-06",
+            "day": 42,
+            "personnel": 18600,
+            "personnel*": "about",
+            "POW": 467
+        },
+        {
+            "date": "2022-04-07",
+            "day": 43,
+            "personnel": 18900,
+            "personnel*": "about",
+            "POW": 467
+        },
+        {
+            "date": "2022-04-08",
+            "day": 44,
+            "personnel": 19000,
+            "personnel*": "about",
+            "POW": 467
+        }
+    ]
+}
