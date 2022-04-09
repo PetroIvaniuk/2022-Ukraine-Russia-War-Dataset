@@ -681,5 +681,22 @@
         "anti-aircraft warfare": 55,
         "special equipment": 25,
         "mobile SRBM system": 4
+    },
+    {
+        "date": "2022-04-09",
+        "day": 45,
+        "aircraft": 151,
+        "helicopter": 136,
+        "tank": 705,
+        "APC": 1895,
+        "field artillery": 335,
+        "MRL": 108,
+        "military auto": 1363,
+        "fuel tank": 76,
+        "drone": 112,
+        "naval ship": 7,
+        "anti-aircraft warfare": 55,
+        "special equipment": 25,
+        "mobile SRBM system": 4
     }
 ]
