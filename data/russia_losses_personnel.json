@@ -334,5 +334,26 @@
         "personnel": 19800,
         "personnel*": "about",
         "POW": 477
+    },
+    {
+        "date": "2022-04-14",
+        "day": 50,
+        "personnel": 19900,
+        "personnel*": "about",
+        "POW": 477
+    },
+    {
+        "date": "2022-04-15",
+        "day": 51,
+        "personnel": 20000,
+        "personnel*": "about",
+        "POW": 477
+    },
+    {
+        "date": "2022-04-16",
+        "day": 52,
+        "personnel": 20100,
+        "personnel*": "about",
+        "POW": 477
     }
 ]
