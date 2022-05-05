@@ -481,5 +481,12 @@
         "personnel": 24500,
         "personnel*": "about",
         "POW": 496
+    },
+    {
+        "date": "2022-05-05",
+        "day": 71,
+        "personnel": 24700,
+        "personnel*": "about",
+        "POW": 496
     }
 ]
