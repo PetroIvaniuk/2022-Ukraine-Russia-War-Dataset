@@ -1340,5 +1340,24 @@
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2087,
         "cruise missiles": 95
+    },
+    {
+        "date": "2022-05-16",
+        "day": 82,
+        "aircraft": 200,
+        "helicopter": 165,
+        "tank": 1228,
+        "APC": 2974,
+        "field artillery": 577,
+        "MRL": 195,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 427,
+        "naval ship": 13,
+        "anti-aircraft warfare": 89,
+        "special equipment": 42,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2101,
+        "cruise missiles": 97
     }
 ]
