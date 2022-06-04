@@ -1529,7 +1529,8 @@
         "special equipment": 44,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2217,
-        "cruise missiles": 112
+        "cruise missiles": 112,
+        "greatest losses direction": "Lyman"
     },
     {
         "date": "2022-05-26",
@@ -1548,7 +1549,8 @@
         "special equipment": 47,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2225,
-        "cruise missiles": 114
+        "cruise missiles": 114,
+        "greatest losses direction": "Avdiivka"
     },
     {
         "date": "2022-05-27",
@@ -1567,7 +1569,8 @@
         "special equipment": 48,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2226,
-        "cruise missiles": 115
+        "cruise missiles": 115,
+        "greatest losses direction": "Avdiivka"
     },
     {
         "date": "2022-05-28",
@@ -1586,7 +1589,8 @@
         "special equipment": 48,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2226,
-        "cruise missiles": 116
+        "cruise missiles": 116,
+        "greatest losses direction": "Avdiivka and Kryvyi Rih"
     },
     {
         "date": "2022-05-29",
@@ -1605,7 +1609,8 @@
         "special equipment": 48,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2240,
-        "cruise missiles": 116
+        "cruise missiles": 116,
+        "greatest losses direction": "Bahmut"
     },
     {
         "date": "2022-05-30",
@@ -1624,7 +1629,8 @@
         "special equipment": 48,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2258,
-        "cruise missiles": 118
+        "cruise missiles": 118,
+        "greatest losses direction": "Zaporizhzhia"
     },
     {
         "date": "2022-05-31",
@@ -1643,7 +1649,8 @@
         "special equipment": 48,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2275,
-        "cruise missiles": 120
+        "cruise missiles": 120,
+        "greatest losses direction": "Kryvyi Rih and Zaporizhzhya"
     },
     {
         "date": "2022-06-01",
@@ -1662,7 +1669,8 @@
         "special equipment": 49,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2290,
-        "cruise missiles": 120
+        "cruise missiles": 120,
+        "greatest losses direction": "Kryvyi Rih and Bakhmut"
     },
     {
         "date": "2022-06-02",
@@ -1681,7 +1689,8 @@
         "special equipment": 51,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2325,
-        "cruise missiles": 120
+        "cruise missiles": 120,
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-03",
@@ -1700,6 +1709,27 @@
         "special equipment": 51,
         "mobile SRBM system": NaN,
         "vehicles and fuel tanks": 2329,
-        "cruise missiles": 121
+        "cruise missiles": 121,
+        "greatest losses direction": "Bakhmut"
+    },
+    {
+        "date": "2022-06-04",
+        "day": 101,
+        "aircraft": 210,
+        "helicopter": 175,
+        "tank": 1376,
+        "APC": 3379,
+        "field artillery": 680,
+        "MRL": 207,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 540,
+        "naval ship": 13,
+        "anti-aircraft warfare": 95,
+        "special equipment": 52,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2337,
+        "cruise missiles": 122,
+        "greatest losses direction": "Zaporizhzhia"
     }
 ]
