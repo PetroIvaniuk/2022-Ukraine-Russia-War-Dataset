@@ -1791,5 +1791,25 @@
         "vehicles and fuel tanks": 2405,
         "cruise missiles": 125,
         "greatest losses direction": "Slov'yansʹk"
+    },
+    {
+        "date": "2022-06-08",
+        "day": 105,
+        "aircraft": 212,
+        "helicopter": 178,
+        "tank": 1393,
+        "APC": 3429,
+        "field artillery": 703,
+        "MRL": 213,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 559,
+        "naval ship": 13,
+        "anti-aircraft warfare": 96,
+        "special equipment": 53,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2406,
+        "cruise missiles": 125,
+        "greatest losses direction": "Slov'yansʹk"
     }
 ]
