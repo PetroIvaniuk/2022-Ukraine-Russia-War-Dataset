@@ -2071,5 +2071,25 @@
         "vehicles and fuel tanks": 2537,
         "cruise missiles": 137,
         "greatest losses direction": "Bahmut and Avdiivka"
+    },
+    {
+        "date": "2022-06-22",
+        "day": 119,
+        "aircraft": 216,
+        "helicopter": 182,
+        "tank": 1496,
+        "APC": 3614,
+        "field artillery": 752,
+        "MRL": 239,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 614,
+        "naval ship": 14,
+        "anti-aircraft warfare": 99,
+        "special equipment": 60,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2543,
+        "cruise missiles": 137,
+        "greatest losses direction": "Sloviansk, Bahmut and Avdiivka"
     }
 ]
