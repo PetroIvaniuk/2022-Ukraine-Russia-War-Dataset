@@ -2231,5 +2231,25 @@
         "vehicles and fuel tanks": 2598,
         "cruise missiles": 142,
         "greatest losses direction": "Bahmut"
+    },
+    {
+        "date": "2022-06-30",
+        "day": 127,
+        "aircraft": 217,
+        "helicopter": 185,
+        "tank": 1573,
+        "APC": 3726,
+        "field artillery": 790,
+        "MRL": 246,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 641,
+        "naval ship": 14,
+        "anti-aircraft warfare": 104,
+        "special equipment": 61,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2602,
+        "cruise missiles": 143,
+        "greatest losses direction": "Bahmut"
     }
 ]
