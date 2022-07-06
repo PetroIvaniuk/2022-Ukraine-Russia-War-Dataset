@@ -2351,5 +2351,25 @@
         "vehicles and fuel tanks": 2634,
         "cruise missiles": 144,
         "greatest losses direction": "Sloviansk and Donetsk"
+    },
+    {
+        "date": "2022-07-06",
+        "day": 133,
+        "aircraft": 217,
+        "helicopter": 187,
+        "tank": 1600,
+        "APC": 3789,
+        "field artillery": 806,
+        "MRL": 247,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 664,
+        "naval ship": 15,
+        "anti-aircraft warfare": 107,
+        "special equipment": 65,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2648,
+        "cruise missiles": 153,
+        "greatest losses direction": "Sloviansk and Donetsk"
     }
 ]
