@@ -2451,5 +2451,25 @@
         "vehicles and fuel tanks": 2694,
         "cruise missiles": 155,
         "greatest losses direction": "Kramatorsk"
+    },
+    {
+        "date": "2022-07-11",
+        "day": 138,
+        "aircraft": 217,
+        "helicopter": 188,
+        "tank": 1645,
+        "APC": 3828,
+        "field artillery": 838,
+        "MRL": 247,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 676,
+        "naval ship": 15,
+        "anti-aircraft warfare": 109,
+        "special equipment": 66,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2696,
+        "cruise missiles": 155,
+        "greatest losses direction": "Avdiivka"
     }
 ]
