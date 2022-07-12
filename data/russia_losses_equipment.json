@@ -2471,5 +2471,25 @@
         "vehicles and fuel tanks": 2696,
         "cruise missiles": 155,
         "greatest losses direction": "Avdiivka"
+    },
+    {
+        "date": "2022-07-12",
+        "day": 139,
+        "aircraft": 217,
+        "helicopter": 188,
+        "tank": 1649,
+        "APC": 3829,
+        "field artillery": 838,
+        "MRL": 247,
+        "military auto": NaN,
+        "fuel tank": NaN,
+        "drone": 676,
+        "naval ship": 15,
+        "anti-aircraft warfare": 109,
+        "special equipment": 66,
+        "mobile SRBM system": NaN,
+        "vehicles and fuel tanks": 2699,
+        "cruise missiles": 155,
+        "greatest losses direction": "Mykolaiv"
     }
 ]
