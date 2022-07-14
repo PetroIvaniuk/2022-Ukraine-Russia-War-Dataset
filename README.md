@@ -11,6 +11,7 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 
 ### Related Datasets
 - [2022 Ukraine Russia War Equipment Losses Oryx](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) - Ukraine and russia Equipment Losses.
+- [russian navy (Military Maritime Fleet)](https://www.kaggle.com/datasets/piterfm/russian-navy) - All Surface Combatants, Submarines, Littoral Warfare Ships, Rescue, and Auxiliary Ships. Ship losses During The 2022 Russian Invasion Of Ukraine are included.
 - [Dataset Social Media Athletes from russia & belarus](https://www.kaggle.com/datasets/piterfm/olympic-athletes-social-media-russia-belarus) - Social Media of russia and belarus athletes that took part in Beijing 2022 Olympic Winter Games.
 - [Kaggle, Data in CSV format](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data on Kaggle. You can also look on [Kaggle notebooks](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) with analysis and visualisation.
 
@@ -41,18 +42,24 @@ df = df.diff().fillna(df).fillna(0).astype(int)
 
 ### Tracking
 - Personnel
-- Prisoner of War
-- Armored Personnel Carrier
-- Multiple Rocket Launcher
-- Aircraft               
-- Anti-aircraft warfare
-- Drone
-- Field Artillery
-- Fuel Tank
+- Prisoner of War (POW) - has not been tracked since 2022-05-10
+- Aircraft
 - Helicopter
-- Military Auto
-- Naval Ship
 - Tank
+- Armored Personnel Carrier (APC)
+- Multiple Rocket Launcher (MRL)
+- Field Artillery
+- Military Auto - has not been tracked since 2022-05-01; joined with `Fuel Tank` into `Vehicles and Fuel Tanks`
+- Fuel Tank - has not been tracked since 2022-05-01; joined with `Military Auto` into `Vehicles and Fuel Tanks`
+- Anti-aircraft warfare
+- Drone - UAV+RPA
+- Naval Ship
+- Anti-aircraft Warfare
+- Mobile SRBM System - has not been tracked since 2022-05-01; joined into `Cruise Missiles`
+- Vehicles and Fuel Tanks - appear since 2022-05-01 as a sum of `Fuel Tank` and `Military Auto`
+- Cruise Missiles - appear since 2022-05-01
+- Direction of Greatest Losses
+
 
 ### Acronyms
 - POW - Prisoner of War,
