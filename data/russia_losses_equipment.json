@@ -2370,5 +2370,22 @@
         "vehicles and fuel tanks": 2735,
         "cruise missiles": 162,
         "greatest losses direction": "Bakhmut"
+    },
+    {
+        "date": "2022-07-17",
+        "day": 144,
+        "aircraft": 220,
+        "helicopter": 188,
+        "tank": 1684,
+        "APC": 3879,
+        "field artillery": 846,
+        "MRL": 248,
+        "drone": 688,
+        "naval ship": 15,
+        "anti-aircraft warfare": 110,
+        "special equipment": 68,
+        "vehicles and fuel tanks": 2746,
+        "cruise missiles": 166,
+        "greatest losses direction": "Bakhmut"
     }
 ]
