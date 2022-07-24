@@ -1006,7 +1006,7 @@
         "anti-aircraft warfare": 71,
         "special equipment": 31,
         "mobile SRBM system": 4,
-        "greatest losses direction": "Kurakhiv and Izyum"
+        "greatest losses direction": "Kurakhove and Izyum"
     },
     {
         "date": "2022-04-28",
@@ -1024,7 +1024,7 @@
         "anti-aircraft warfare": 72,
         "special equipment": 31,
         "mobile SRBM system": 4,
-        "greatest losses direction": "Zaporizhzhya and Izyum"
+        "greatest losses direction": "Zaporizhzhia and Izyum"
     },
     {
         "date": "2022-04-29",
@@ -1128,7 +1128,7 @@
         "special equipment": 38,
         "vehicles and fuel tanks": 1867,
         "cruise missiles": 87,
-        "greatest losses direction": "Izyum Novopavlivsʹk"
+        "greatest losses direction": "Izyum, Novopavlivsk"
     },
     {
         "date": "2022-05-05",
@@ -1162,7 +1162,7 @@
         "special equipment": 38,
         "vehicles and fuel tanks": 1926,
         "cruise missiles": 90,
-        "greatest losses direction": "Lyman and Kurakhiv"
+        "greatest losses direction": "Lyman and Kurakhove"
     },
     {
         "date": "2022-05-07",
@@ -1247,7 +1247,7 @@
         "special equipment": 41,
         "vehicles and fuel tanks": 1997,
         "cruise missiles": 94,
-        "greatest losses direction": "Novopavlivsk, Kurakhiv and Severodonetsk"
+        "greatest losses direction": "Novopavlivsk, Kurakhove and Sievierodonetsk"
     },
     {
         "date": "2022-05-12",
@@ -1264,7 +1264,7 @@
         "special equipment": 41,
         "vehicles and fuel tanks": 2019,
         "cruise missiles": 94,
-        "greatest losses direction": "Kurakhiv"
+        "greatest losses direction": "Kurakhove"
     },
     {
         "date": "2022-05-13",
@@ -1281,7 +1281,7 @@
         "special equipment": 41,
         "vehicles and fuel tanks": 2042,
         "cruise missiles": 95,
-        "greatest losses direction": "Kurakhiv"
+        "greatest losses direction": "Kurakhove"
     },
     {
         "date": "2022-05-14",
@@ -1298,7 +1298,7 @@
         "special equipment": 42,
         "vehicles and fuel tanks": 2059,
         "cruise missiles": 95,
-        "greatest losses direction": "Kurakhiv"
+        "greatest losses direction": "Kurakhove"
     },
     {
         "date": "2022-05-15",
@@ -1315,7 +1315,7 @@
         "special equipment": 42,
         "vehicles and fuel tanks": 2087,
         "cruise missiles": 95,
-        "greatest losses direction": "Kurakhiv and Avdiivka"
+        "greatest losses direction": "Kurakhove and Avdiivka"
     },
     {
         "date": "2022-05-16",
@@ -1332,7 +1332,7 @@
         "special equipment": 42,
         "vehicles and fuel tanks": 2101,
         "cruise missiles": 97,
-        "greatest losses direction": "Bachmut and Zaporizhzhia"
+        "greatest losses direction": "Bakhmut and Zaporizhzhia"
     },
     {
         "date": "2022-05-17",
@@ -1366,7 +1366,7 @@
         "special equipment": 43,
         "vehicles and fuel tanks": 2137,
         "cruise missiles": 102,
-        "greatest losses direction": "Slov'yansʹk, Kryvyi Rih and Zaporizhzhia"
+        "greatest losses direction": "Sloviansk, Kryvyi Rih and Zaporizhzhia"
     },
     {
         "date": "2022-05-19",
@@ -1383,7 +1383,7 @@
         "special equipment": 43,
         "vehicles and fuel tanks": 2157,
         "cruise missiles": 103,
-        "greatest losses direction": "Slov'yansʹk, Kryvyi Rih and Zaporizhzhia"
+        "greatest losses direction": "Sloviansk, Kryvyi Rih and Zaporizhzhia"
     },
     {
         "date": "2022-05-20",
@@ -1400,7 +1400,7 @@
         "special equipment": 43,
         "vehicles and fuel tanks": 2162,
         "cruise missiles": 103,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-05-21",
@@ -1417,7 +1417,7 @@
         "special equipment": 43,
         "vehicles and fuel tanks": 2178,
         "cruise missiles": 104,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-05-22",
@@ -1434,7 +1434,7 @@
         "special equipment": 43,
         "vehicles and fuel tanks": 2194,
         "cruise missiles": 107,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-05-23",
@@ -1451,7 +1451,7 @@
         "special equipment": 43,
         "vehicles and fuel tanks": 2206,
         "cruise missiles": 110,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-05-24",
@@ -1468,7 +1468,7 @@
         "special equipment": 43,
         "vehicles and fuel tanks": 2213,
         "cruise missiles": 112,
-        "greatest losses direction": "Syeverodonetsʹk"
+        "greatest losses direction": "Sievierodonetsk"
     },
     {
         "date": "2022-05-25",
@@ -1553,7 +1553,7 @@
         "special equipment": 48,
         "vehicles and fuel tanks": 2240,
         "cruise missiles": 116,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-05-30",
@@ -1587,7 +1587,7 @@
         "special equipment": 48,
         "vehicles and fuel tanks": 2275,
         "cruise missiles": 120,
-        "greatest losses direction": "Kryvyi Rih and Zaporizhzhya"
+        "greatest losses direction": "Kryvyi Rih and Zaporizhzhia"
     },
     {
         "date": "2022-06-01",
@@ -1689,7 +1689,7 @@
         "special equipment": 53,
         "vehicles and fuel tanks": 2395,
         "cruise missiles": 125,
-        "greatest losses direction": "Slov'yansʹk"
+        "greatest losses direction": "Sloviansk"
     },
     {
         "date": "2022-06-07",
@@ -1706,7 +1706,7 @@
         "special equipment": 53,
         "vehicles and fuel tanks": 2405,
         "cruise missiles": 125,
-        "greatest losses direction": "Slov'yansʹk"
+        "greatest losses direction": "Sloviansk"
     },
     {
         "date": "2022-06-08",
@@ -1723,7 +1723,7 @@
         "special equipment": 53,
         "vehicles and fuel tanks": 2406,
         "cruise missiles": 125,
-        "greatest losses direction": "Slov'yansʹk"
+        "greatest losses direction": "Sloviansk"
     },
     {
         "date": "2022-06-09",
@@ -1740,7 +1740,7 @@
         "special equipment": 53,
         "vehicles and fuel tanks": 2421,
         "cruise missiles": 125,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-10",
@@ -1757,7 +1757,7 @@
         "special equipment": 54,
         "vehicles and fuel tanks": 2438,
         "cruise missiles": 125,
-        "greatest losses direction": "Kharkiv and Bahmut"
+        "greatest losses direction": "Kharkiv and Bakhmut"
     },
     {
         "date": "2022-06-11",
@@ -1774,7 +1774,7 @@
         "special equipment": 54,
         "vehicles and fuel tanks": 2448,
         "cruise missiles": 125,
-        "greatest losses direction": "Sievierodonetsk and Bahmut"
+        "greatest losses direction": "Sievierodonetsk and Bakhmut"
     },
     {
         "date": "2022-06-12",
@@ -1791,7 +1791,7 @@
         "special equipment": 54,
         "vehicles and fuel tanks": 2455,
         "cruise missiles": 125,
-        "greatest losses direction": "Sievierodonetsk and Bahmut"
+        "greatest losses direction": "Sievierodonetsk and Bakhmut"
     },
     {
         "date": "2022-06-13",
@@ -1808,7 +1808,7 @@
         "special equipment": 54,
         "vehicles and fuel tanks": 2460,
         "cruise missiles": 125,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-14",
@@ -1825,7 +1825,7 @@
         "special equipment": 54,
         "vehicles and fuel tanks": 2473,
         "cruise missiles": 125,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-15",
@@ -1842,7 +1842,7 @@
         "special equipment": 55,
         "vehicles and fuel tanks": 2485,
         "cruise missiles": 129,
-        "greatest losses direction": "Bahmut and Sievierodonetsk"
+        "greatest losses direction": "Bakhmut and Sievierodonetsk"
     },
     {
         "date": "2022-06-16",
@@ -1859,7 +1859,7 @@
         "special equipment": 55,
         "vehicles and fuel tanks": 2494,
         "cruise missiles": 129,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-17",
@@ -1876,7 +1876,7 @@
         "special equipment": 55,
         "vehicles and fuel tanks": 2496,
         "cruise missiles": 129,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-18",
@@ -1893,7 +1893,7 @@
         "special equipment": 55,
         "vehicles and fuel tanks": 2513,
         "cruise missiles": 129,
-        "greatest losses direction": "Sloviansk, Bahmut and Kryvyi Rih"
+        "greatest losses direction": "Sloviansk, Bakhmut and Kryvyi Rih"
     },
     {
         "date": "2022-06-19",
@@ -1910,7 +1910,7 @@
         "special equipment": 55,
         "vehicles and fuel tanks": 2523,
         "cruise missiles": 130,
-        "greatest losses direction": "Bahmut and Zaporizhzhia"
+        "greatest losses direction": "Bakhmut and Zaporizhzhia"
     },
     {
         "date": "2022-06-20",
@@ -1927,7 +1927,7 @@
         "special equipment": 55,
         "vehicles and fuel tanks": 2527,
         "cruise missiles": 130,
-        "greatest losses direction": "Bahmut and Zaporizhzhia"
+        "greatest losses direction": "Bakhmut and Zaporizhzhia"
     },
     {
         "date": "2022-06-21",
@@ -1944,7 +1944,7 @@
         "special equipment": 59,
         "vehicles and fuel tanks": 2537,
         "cruise missiles": 137,
-        "greatest losses direction": "Bahmut and Avdiivka"
+        "greatest losses direction": "Bakhmut and Avdiivka"
     },
     {
         "date": "2022-06-22",
@@ -1961,7 +1961,7 @@
         "special equipment": 60,
         "vehicles and fuel tanks": 2543,
         "cruise missiles": 137,
-        "greatest losses direction": "Sloviansk, Bahmut and Avdiivka"
+        "greatest losses direction": "Sloviansk, Bakhmut and Avdiivka"
     },
     {
         "date": "2022-06-23",
@@ -1978,7 +1978,7 @@
         "special equipment": 60,
         "vehicles and fuel tanks": 2548,
         "cruise missiles": 137,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-24",
@@ -1995,7 +1995,7 @@
         "special equipment": 60,
         "vehicles and fuel tanks": 2553,
         "cruise missiles": 137,
-        "greatest losses direction": "Sloviansk and Bahmut"
+        "greatest losses direction": "Sloviansk and Bakhmut"
     },
     {
         "date": "2022-06-25",
@@ -2012,7 +2012,7 @@
         "special equipment": 60,
         "vehicles and fuel tanks": 2560,
         "cruise missiles": 137,
-        "greatest losses direction": "Bahmut and Kurakhove"
+        "greatest losses direction": "Bakhmut and Kurakhove"
     },
     {
         "date": "2022-06-26",
@@ -2029,7 +2029,7 @@
         "special equipment": 60,
         "vehicles and fuel tanks": 2564,
         "cruise missiles": 139,
-        "greatest losses direction": "Bahmut and Kurakhove"
+        "greatest losses direction": "Bakhmut and Kurakhove"
     },
     {
         "date": "2022-06-27",
@@ -2046,7 +2046,7 @@
         "special equipment": 60,
         "vehicles and fuel tanks": 2575,
         "cruise missiles": 139,
-        "greatest losses direction": "Bahmut and Kurakhove"
+        "greatest losses direction": "Bakhmut and Kurakhove"
     },
     {
         "date": "2022-06-28",
@@ -2063,7 +2063,7 @@
         "special equipment": 61,
         "vehicles and fuel tanks": 2589,
         "cruise missiles": 139,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-29",
@@ -2080,7 +2080,7 @@
         "special equipment": 61,
         "vehicles and fuel tanks": 2598,
         "cruise missiles": 142,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-06-30",
@@ -2097,7 +2097,7 @@
         "special equipment": 61,
         "vehicles and fuel tanks": 2602,
         "cruise missiles": 143,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-07-01",
@@ -2114,7 +2114,7 @@
         "special equipment": 61,
         "vehicles and fuel tanks": 2610,
         "cruise missiles": 143,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-07-02",
@@ -2131,7 +2131,7 @@
         "special equipment": 61,
         "vehicles and fuel tanks": 2614,
         "cruise missiles": 144,
-        "greatest losses direction": "Bahmut"
+        "greatest losses direction": "Bakhmut"
     },
     {
         "date": "2022-07-03",
@@ -2148,7 +2148,7 @@
         "special equipment": 64,
         "vehicles and fuel tanks": 2618,
         "cruise missiles": 144,
-        "greatest losses direction": "Kramatorsk and Bahmut"
+        "greatest losses direction": "Kramatorsk and Bakhmut"
     },
     {
         "date": "2022-07-04",
