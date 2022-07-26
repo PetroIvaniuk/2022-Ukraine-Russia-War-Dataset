@@ -7,13 +7,13 @@ All data are official and additionally structured by myself.
 A lot of civilians and children have already been killed by russia troops. Ukraine is in war flame and under missile attack now. We are strong. Stand with Ukraine. #StandWithUkraine, @StandWithUkraine 
 
 ### Application 
-- [russia War Equipment Losses Application](https://share.streamlit.io/petroivaniuk/ukraine-russia-war/main/russia_losses.py)
+- [russian Equipment Losses](https://share.streamlit.io/petroivaniuk/ukraine-russia-war/main/russia_losses.py) - is a monitoring dashboard that describes russian Equipment Losses during the 2022 russian invasion of Ukraine.
 
 ### Related Datasets
-- [2022 Ukraine Russia War Equipment Losses Oryx](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) - Ukraine and russia Equipment Losses.
-- [russian navy (Military Maritime Fleet)](https://www.kaggle.com/datasets/piterfm/russian-navy) - All Surface Combatants, Submarines, Littoral Warfare Ships, Rescue, and Auxiliary Ships. Ship losses During The 2022 Russian Invasion Of Ukraine are included.
-- [Dataset Social Media Athletes from russia & belarus](https://www.kaggle.com/datasets/piterfm/olympic-athletes-social-media-russia-belarus) - Social Media of russia and belarus athletes that took part in Beijing 2022 Olympic Winter Games.
-- [Kaggle, Data in CSV format](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - The same data on Kaggle. You can also look on [Kaggle notebooks](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) with analysis and visualisation.
+- [2022 Ukraine Russia War, Losses, Oryx + Images](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) - Ukraine and russia Equipment Losses based on Oryx Investigation.
+- [russian navy (Military Maritime Fleet)](https://www.kaggle.com/datasets/piterfm/russian-navy) - all Surface Combatants, Submarines, Littoral Warfare Ships, Rescue, and Auxiliary Ships. Ship losses During The 2022 Russian Invasion Of Ukraine are included.
+- [Social Media Athletes from russia & belarus](https://www.kaggle.com/datasets/piterfm/olympic-athletes-social-media-russia-belarus) - Social Media of russia and belarus athletes that took part in Beijing 2022 Olympic Winter Games.
+- [Kaggle, Data in CSV format](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - the same data on Kaggle. You can also look at the variety of [Kaggle notebooks](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) with analysis and visualisation.
 
 ### Data Sources
 1. Main data sources are [Armed Forces of Ukraine](https://www.zsu.gov.ua/en) and [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). They gathered data from different points of the country. The calculation is complicated by the high intensity of hostilities.
@@ -64,6 +64,5 @@ df = df.diff().fillna(df).fillna(0).astype(int)
 - POW - Prisoner of War,
 - MRL - Multiple Rocket Launcher,
 - APC - Armored Personnel Carrier,
-- drones: 
-  - UAV - Unmanned Aerial Vehicle, 
-  - RPA - Remotely Piloted Vehicle.
+- UAV - Unmanned Aerial Vehicle, 
+- RPA - Remotely Piloted Vehicle.
