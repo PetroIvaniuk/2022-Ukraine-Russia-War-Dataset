@@ -2574,5 +2574,22 @@
         "vehicles and fuel tanks": 2854,
         "cruise missiles": 174,
         "greatest losses direction": "Kryvyi Rih"
+    },
+    {
+        "date": "2022-07-29",
+        "day": 156,
+        "aircraft": 222,
+        "helicopter": 190,
+        "tank": 1749,
+        "APC": 3987,
+        "field artillery": 900,
+        "MRL": 258,
+        "drone": 731,
+        "naval ship": 15,
+        "anti-aircraft warfare": 117,
+        "special equipment": 77,
+        "vehicles and fuel tanks": 2870,
+        "cruise missiles": 174,
+        "greatest losses direction": "Kryvyi Rih"
     }
 ]
