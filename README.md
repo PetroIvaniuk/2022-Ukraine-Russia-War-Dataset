@@ -10,6 +10,7 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 
 ### Application 
 - [russian Equipment Losses](https://share.streamlit.io/petroivaniuk/ukraine-russia-war/main/russia_losses.py) - is a monitoring dashboard that describes russian Equipment Losses during the 2022 russia invasion of Ukraine.
+- [Cargo200rus](https://t.me/Cargo200rusBot) - is telegram bot that represent official losses of the russian armed forces in Ukraine. [GitHub.](https://github.com/MadMan2k/TelegramBot-Cargo200rus)
 
 ### Related Datasets
 - [2022 Ukraine Russia War, Losses, Oryx + Images](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) - Ukraine and russia Equipment Losses based on Oryx Investigation.
