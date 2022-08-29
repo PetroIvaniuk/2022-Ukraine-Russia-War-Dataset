@@ -3101,5 +3101,22 @@
         "vehicles and fuel tanks": 3171,
         "cruise missiles": 196,
         "greatest losses direction": "Donetsk"
+    },
+    {
+        "date": "2022-08-29",
+        "day": 187,
+        "aircraft": 234,
+        "helicopter": 203,
+        "tank": 1947,
+        "APC": 4269,
+        "field artillery": 1060,
+        "MRL": 279,
+        "drone": 844,
+        "naval ship": 15,
+        "anti-aircraft warfare": 149,
+        "special equipment": 101,
+        "vehicles and fuel tanks": 3188,
+        "cruise missiles": 196,
+        "greatest losses direction": "Donetsk"
     }
 ]
