@@ -3305,5 +3305,22 @@
         "vehicles and fuel tanks": 3399,
         "cruise missiles": 214,
         "greatest losses direction": "Kharkiv and Donetsk"
+    },
+    {
+        "date": "2022-09-10",
+        "day": 199,
+        "aircraft": 239,
+        "helicopter": 212,
+        "tank": 2136,
+        "APC": 4584,
+        "field artillery": 1259,
+        "MRL": 311,
+        "drone": 898,
+        "naval ship": 15,
+        "anti-aircraft warfare": 162,
+        "special equipment": 116,
+        "vehicles and fuel tanks": 3426,
+        "cruise missiles": 215,
+        "greatest losses direction": "Kharkiv and Donetsk"
     }
 ]
