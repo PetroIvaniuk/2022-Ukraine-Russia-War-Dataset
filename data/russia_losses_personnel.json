@@ -1302,5 +1302,11 @@
         "day": 208,
         "personnel": 54650,
         "personnel*": "about"
+    },
+    {
+        "date": "2022-09-20",
+        "day": 209,
+        "personnel": 54810,
+        "personnel*": "about"
     }
 ]
