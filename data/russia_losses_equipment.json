@@ -3489,5 +3489,22 @@
         "vehicles and fuel tanks": 3587,
         "cruise missiles": 239,
         "greatest losses direction": "Bakhmut and Donetsk"
+    },
+    {
+        "date": "2022-09-21",
+        "day": 210,
+        "aircraft": 253,
+        "helicopter": 217,
+        "tank": 2227,
+        "APC": 4748,
+        "field artillery": 1340,
+        "MRL": 318,
+        "drone": 932,
+        "naval ship": 15,
+        "anti-aircraft warfare": 168,
+        "special equipment": 125,
+        "vehicles and fuel tanks": 3610,
+        "cruise missiles": 239,
+        "greatest losses direction": "Donetsk"
     }
 ]
