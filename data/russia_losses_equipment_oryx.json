@@ -1,0 +1,1718 @@
+[
+    {
+        "equipment": "Tanks",
+        "model": "T-62M",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-64A",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-64BV",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 39
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72A",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 31
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72AV",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72B",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 174
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72B Obr. 1989",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 68
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72BA",
+        "manufacturer": "Russia",
+        "losses_total": 11
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72B3",
+        "manufacturer": "Russia",
+        "losses_total": 184
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72B3 Obr. 2014",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-72B3 Obr. 2016",
+        "manufacturer": "Russia",
+        "losses_total": 156
+    },
+    {
+        "equipment": "Tanks",
+        "model": "Unknown T-72",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 86
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-80BV",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 105
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-80BVK",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-80U",
+        "manufacturer": "Russia",
+        "losses_total": 86
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-80UK",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-80UE-1",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-80UM2",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-80BVM",
+        "manufacturer": "Russia",
+        "losses_total": 38
+    },
+    {
+        "equipment": "Tanks",
+        "model": "Unknown T-80",
+        "manufacturer": "Russia",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-90A",
+        "manufacturer": "Russia",
+        "losses_total": 21
+    },
+    {
+        "equipment": "Tanks",
+        "model": "T-90M",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Tanks",
+        "model": "Unknown tank",
+        "manufacturer": "Russia",
+        "losses_total": 133
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "BRM-1K reconnaissance vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 19
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "BRDM-2",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "MT-LB",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 243
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "MT-LBVM and MT-LBVMK",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 103
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "MT-LB with ZU-23 AA gun",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "MT-LBM 6MB",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "MT-LBu",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 14
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "Vityaz DT-10PM articulated tracked carrier",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "Vityaz DT-30 articulated tracked carrier",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "GAZ-3344-20 'Aleut' articulated tracked carrier",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "2S1 with ZU-23 AA gun",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "Unknown BTR-D/BMD-2",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "Unknown BTR-80/BTR-82A",
+        "manufacturer": "Russia",
+        "losses_total": 41
+    },
+    {
+        "equipment": "Armoured Fighting Vehicles",
+        "model": "Unknown AFV",
+        "manufacturer": "Russia",
+        "losses_total": 156
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMP-1(P)",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 154
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMP-1AM",
+        "manufacturer": "Russia",
+        "losses_total": 16
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMP-2(K)",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 484
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMP-2M",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMP-2 675-sb3KDZ",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "Unknown BMP-1/2",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 69
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMP-3",
+        "manufacturer": "Russia",
+        "losses_total": 141
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMO-T",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMD-2",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 131
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMD-2 with RP-337VM1 jammer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMD-2 with RP-377VM1 jammer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMD-4M",
+        "manufacturer": "Russia",
+        "losses_total": 55
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BMD-4M with RP-337VM1 jammer",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Infantry Fighting Vehicles",
+        "model": "BTR-82A(M)",
+        "manufacturer": "Russia",
+        "losses_total": 242
+    },
+    {
+        "equipment": "Armoured Personnel Carriers",
+        "model": "BTR-60PB",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Armoured Personnel Carriers",
+        "model": "BTR-70",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Armoured Personnel Carriers",
+        "model": "BTR-70M",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Armoured Personnel Carriers",
+        "model": "BTR-80",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 91
+    },
+    {
+        "equipment": "Armoured Personnel Carriers",
+        "model": "BTR-D",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 57
+    },
+    {
+        "equipment": "Armoured Personnel Carriers",
+        "model": "BTR-MDM 'Rakushka'",
+        "manufacturer": "Russia",
+        "losses_total": 11
+    },
+    {
+        "equipment": "Mine-Resistant Ambush Protected",
+        "model": "KamAZ-63968 Typhoon",
+        "manufacturer": "Russia",
+        "losses_total": 15
+    },
+    {
+        "equipment": "Mine-Resistant Ambush Protected",
+        "model": "KamAZ-435029 Patrol-A",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Mine-Resistant Ambush Protected",
+        "model": "K-53949 Typhoon-K",
+        "manufacturer": "Russia",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Mine-Resistant Ambush Protected",
+        "model": "K-53949 Linza",
+        "manufacturer": "Russia",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Infantry Mobility Vehicles",
+        "model": "GAZ Tigr",
+        "manufacturer": "Russia",
+        "losses_total": 13
+    },
+    {
+        "equipment": "Infantry Mobility Vehicles",
+        "model": "GAZ Tigr-M",
+        "manufacturer": "Russia",
+        "losses_total": 84
+    },
+    {
+        "equipment": "Infantry Mobility Vehicles",
+        "model": "GAZ Tigr-M with Arbalet-DM turret",
+        "manufacturer": "Russia",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Infantry Mobility Vehicles",
+        "model": "Iveco LMV Rys",
+        "manufacturer": "Italy",
+        "losses_total": 25
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "BMP-1KSh command and staff vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "BMD-1KSh-A command vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "BTR-60PU-12M air defence command vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-145BM1 command vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-142NSA command and signals vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-149MA1 command and staff vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 52
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-149MA3 command and staff vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 24
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-149MA3 command and staff vehicle with RP-337VM1 jammer",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "APE-5 command post",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "MSh-5350.1 command vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "9S470M1 (or variant thereof) command post (for Buk-M1/2)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "MP-2IM signals vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "Barnaul-T 9С932-1 automated system for air defence units",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "9S932-2 intelligence, control and command vehicle (for Barnaul-T)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "Command vehicle for Podlet-K1 low-altitude S-band surveillance radar",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-149AKSh-1 command and signals vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-166-0.5 signals vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 17
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "P-260 Redut-2US communication system",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-419L1 communications station",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "P-260-U signals vehicle (for Redut-2US signal and communications system)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "MP-1IM signals vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "MP-2IM signals vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-439-MD2 SatCom Station",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "Auriga-1.2V portable satellite communications station",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "R-381T2M 1.5-3000 MHz radio monitoring station from a modernized R-381TM Taran-M automatic signals intelligence complex",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "Unknown communications station based on the KamAZ 6x6",
+        "manufacturer": "Russia",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Command Posts And Communications Stations",
+        "model": "Unknown communications station",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "UR-67 mine clearing charge on BTR-D APC",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "UR-77 'Meteorit'  mine clearing vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 18
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "GMZ-3 minelayer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "RKhM-6 Povozka",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "RKhM-6 Povozka with RP-377VM1 jammer",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "RKhM-6 CBRN reconnaissance vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BAT-2 heavy engineering vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "MDK-3 trench-digging vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BTS-4A armoured recovery vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BREM-1 armoured recovery vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 18
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BREM-2 armoured recovery vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BREM-Ch ''BREM-4'' armoured recovery vehicle",
+        "manufacturer": "the Czech Republic",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BREM-D armoured recovery vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BREM-K armoured recovery vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "REM-KL recovery vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "MTP-A2 recovery vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "MTP-A2.1 recovery vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "Ural-4320 KET-L recovery vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "Ural-4320 KT-L recovery vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "IMR-2(M) combat engineering vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 14
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "IMR-3M combat engineering vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "PTS-3  tracked amphibious transport",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 10
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "TMM-3 bridge layer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 25
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "MTU-72 bridge layer",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "PMP floating bridge",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "PP-2005 floating bridge",
+        "manufacturer": "Russia",
+        "losses_total": 24
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "Pontoon bridge",
+        "manufacturer": "Russia",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BMK-130M/BMK-150 towing and motor boat",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "BMK-460 towing and motor boat",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 10
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "KrAZ-255B with excavator",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "KamAZ-5350 with EOV-3523 excavator",
+        "manufacturer": "Russia",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "KamAZ-5350 with KS-45719-7M crane",
+        "manufacturer": "Russia",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "KamAZ-5350 with crane",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "Ural-4320 with KS-3574M3 or KS-3574M crane",
+        "manufacturer": "Russia",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "KamAZ KMV-10V boom crane truck",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "Ural-4320 with excavator",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "ED2x30-T400-3RA mobile generator",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "Mobile generator for Podlet-K1 low-altitude S-band surveillance radar",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "MTO-UB1 maintenance vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "MTO-AT mobile workshop",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "MTO-AG-3M",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Engineering Vehicles And Equipment",
+        "model": "ARS-14U decontamination and degassing vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Self-Propelled Anti-Tank Missile Systems",
+        "model": "9P148 Konkurs",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Self-Propelled Anti-Tank Missile Systems",
+        "model": "9P149 Shturm-S",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 21
+    },
+    {
+        "equipment": "Self-Propelled Anti-Tank Missile Systems",
+        "model": "9P163M-1 Kornet-T",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Heavy Mortars",
+        "model": "120mm 2B11/2S12",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 10
+    },
+    {
+        "equipment": "Heavy Mortars",
+        "model": "120mm 2B11/2S12A",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Heavy Mortars",
+        "model": "2B9 Vasilek 82mm automatic gun mortar",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Heavy Mortars",
+        "model": "Unknown heavy mortar",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "1V110 BM-21 Grad battery command vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "1V13(M) battery fire control center",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 11
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "1V14 battery command and forward observer vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "1V15M fire control and observation vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "1V119 artillery fire direction vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "1V1003 command and observation vehicle (for 1V198 artillery fire control system)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "9T452 transporter-loader (for BM-27 'Uragan' MRL)",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 24
+    },
+    {
+        "equipment": "Artillery Support Vehicles And Equipment",
+        "model": "TZM-T reloader vehicle (for TOS-1A)",
+        "manufacturer": "Russia",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Towed Artillery",
+        "model": "100mm MT-12 anti-tank gun",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Towed Artillery",
+        "model": "120mm 2B16 Nona-K howitzer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Towed Artillery",
+        "model": "122mm D-30 howitzer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 30
+    },
+    {
+        "equipment": "Towed Artillery",
+        "model": "152mm D-20 gun-howitzer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Towed Artillery",
+        "model": "152mm 2A65 Msta-B howitzer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 41
+    },
+    {
+        "equipment": "Towed Artillery",
+        "model": "152mm 2A36 Giatsint-B",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Towed Artillery",
+        "model": "Unknown towed artillery",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "120mm 2S9 Nona",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 13
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "120mm 2S23 Nona-SVK",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "120mm 2S34 Khosta",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "122mm 2S1 Gvozdika",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 26
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "152mm 2S3(M) Akatsiya",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 65
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "152mm 2S5 Giatsint-S",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "152mm 2S19 Msta-S",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 76
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "152mm 2S33 Msta-SM2",
+        "manufacturer": "Russia",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "203mm 2S7M Malka",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "240mm 2S4 Tyulpan",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Self-Propelled Artillery",
+        "model": "Unknown SPG",
+        "manufacturer": "Russia",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Multiple Rocket Launchers",
+        "model": "122mm BM-21 Grad",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 72
+    },
+    {
+        "equipment": "Multiple Rocket Launchers",
+        "model": "220mm BM-27 Uragan",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 21
+    },
+    {
+        "equipment": "Multiple Rocket Launchers",
+        "model": "122mm 2B17 Tornado-G",
+        "manufacturer": "Russia",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Multiple Rocket Launchers",
+        "model": "220mm TOS-1A",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Multiple Rocket Launchers",
+        "model": "Unknown MRL",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Anti-Aircraft Guns",
+        "model": "23mm ZU-23-2",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 10
+    },
+    {
+        "equipment": "Self-Propelled Anti-Aircraft Guns",
+        "model": "BTR-ZD Skrezhet",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Self-Propelled Anti-Aircraft Guns",
+        "model": "ZSU-23-4 Shilka",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Self-Propelled Anti-Aircraft Guns",
+        "model": "2K22M1 Tunguska",
+        "manufacturer": "Russia",
+        "losses_total": 11
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9K33 Osa",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9K35 Strela-10",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 13
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9A310M1-2 TELAR (for Buk-M1-2)",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9A39M1-2 TEL (for Buk-M1-2)",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9A317 TELAR (for Buk-M2)",
+        "manufacturer": "Russia",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9A316 TEL (for Buk-M2)",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "Unknown Buk SAM system",
+        "manufacturer": "Russia",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9A330 Tor TLAR (for 9K330 Tor)",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9A331 TLAR (for 9K331 Tor-M1)",
+        "manufacturer": "Russia",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "9A331M TLAR (for 9K332 Tor-M2)",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "Pantsir-S1",
+        "manufacturer": "Russia",
+        "losses_total": 10
+    },
+    {
+        "equipment": "Surface-To-Air Missile Systems",
+        "model": "TEL for S-300",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Radars",
+        "model": "9S36 (for Buk-M2)",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Radars",
+        "model": "48Ya6-K1 Podlet-K1 low-altitude S-band surveillance radar",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Radars",
+        "model": "9S18М1(-2) (for Buk-M2)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Radars",
+        "model": "9S18М1(-3) (for Buk-M3)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Radars",
+        "model": "PPRU-1(M) '9S80(-1)' 'Sborka' (for 9K35 Strela-10)",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Radars",
+        "model": "Fara ground surveillance radar",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Radars",
+        "model": "SNAR-10M1 battlefield surveillance radar",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Radars",
+        "model": "1L261 (for 1L260 Zoopark-1M counter-battery radar complex)",
+        "manufacturer": "Russia",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Radars",
+        "model": "P-18T",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "R-330BMV Borisoglebsk-2B",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "R-330ZH Zhitel",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "1L262E Rtut-BM",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "Torn(-MDM)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "Silok-01 counter-UAV system",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "1RL257 Krasukha-4 (command post)",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "Leer-2 electronic warfare system",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "RLK-MC-A (ROSC-1) counter-UAV system",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Jammers And Deception Systems",
+        "model": "Unknown EW system",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Su-25 close air support aircraft",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 22
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Su-24MR tactical reconnaissance aircraft",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Su-24M/MR strike/tactical reconnaissance aircraft",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Su-30SM multirole aircraft",
+        "manufacturer": "Russia",
+        "losses_total": 11
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Su-35S multirole aircraft",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Su-34 strike aircraft",
+        "manufacturer": "Russia",
+        "losses_total": 12
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Su-34M strike aircraft",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "Unknown Su-30/Su-34/Su-35",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Aircraft",
+        "model": "An-26 transport aircraft",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Helicopters",
+        "model": "Mi-8 transport helicopter",
+        "manufacturer": "Russia",
+        "losses_total": 12
+    },
+    {
+        "equipment": "Helicopters",
+        "model": "Mi-24P attack helicopter",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Helicopters",
+        "model": "Mi-35M attack helicopter",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Helicopters",
+        "model": "Mi-28 attack helicopter",
+        "manufacturer": "Russia",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Helicopters",
+        "model": "Ka-52 'Alligator' attack helicopter",
+        "manufacturer": "Russia",
+        "losses_total": 18
+    },
+    {
+        "equipment": "Helicopters",
+        "model": "Unknown helicopter",
+        "manufacturer": "Russia",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Forpost reconnaissance UAV",
+        "manufacturer": "Israel",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Orion UCAV",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Orlan-10 reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 84
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Orlan-10 jamming UAV",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "'Orlan-20' ''Kartograf'' reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 8
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Orlan-30 reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Eleron-3 reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 13
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Eleron T28ME reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Takhion reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "ZALA 421-16Е2 reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Merlin-VR reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Lastochka-M reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Supercam S450 reconnaissance UAV",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Unmanned Aerial Vehicles",
+        "model": "Unknown UAV",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Naval Ships",
+        "model": "Project 1164 Slava class guided missile cruiser 'Moskva'",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Naval Ships",
+        "model": "Project 03160 Raptor class patrol boat",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Naval Ships",
+        "model": "Project 02510 BK-16E high-speed assault boat",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Naval Ships",
+        "model": "Project 1171 Tapir class landing ship 'Saratov (BDK-65)'",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Naval Ships",
+        "model": "Project 775 Ropucha class landing ship",
+        "manufacturer": "Poland",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Naval Ships",
+        "model": "Project 11770 Serna class landing craft",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Naval Ships",
+        "model": "Project 22870 SB-739 Vasily Bekh rescue tug",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Logistics Trains",
+        "model": "Fuel train",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "GAZ-51",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "GAZ-66",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 10
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KrAZ-255B",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KrAZ-255B tanker",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KrAZ-260 tanker",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "ZiL-131",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "ZiL-131 tanker",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "9T217 transloader (for 9K33 Osa)",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "9T244 transloader (for 9A330/1 Tor)",
+        "manufacturer": "Russia",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "GAZ-3308",
+        "manufacturer": "Russia",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "GAZ Sobol",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-375D",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-4320",
+        "manufacturer": "Russia",
+        "losses_total": 415
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-4320 with ZU-23 AA gun",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-4320 tanker",
+        "manufacturer": "Russia",
+        "losses_total": 98
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural Avtozaks",
+        "manufacturer": "Russia",
+        "losses_total": 6
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-43206",
+        "manufacturer": "Russia",
+        "losses_total": 76
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural Federal",
+        "manufacturer": "Russia",
+        "losses_total": 20
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-5323",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-63704-0010 Tornado-U",
+        "manufacturer": "Russia",
+        "losses_total": 9
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-542301 tank transporter",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "MAZ TZ-500 tanker",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ 4x4",
+        "manufacturer": "Russia",
+        "losses_total": 15
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ 6x6",
+        "manufacturer": "Russia",
+        "losses_total": 432
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ 6x6 with ZU-23 AA gun",
+        "manufacturer": "Russia",
+        "losses_total": 4
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ 6x6 tanker",
+        "manufacturer": "Russia",
+        "losses_total": 75
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ 8x8",
+        "manufacturer": "Russia",
+        "losses_total": 12
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ Avtozaks",
+        "manufacturer": "Russia",
+        "losses_total": 24
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ-5350 with armoured cabin",
+        "manufacturer": "Russia",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ with MM-501 armoured cabin",
+        "manufacturer": "Russia",
+        "losses_total": 14
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "KamAZ-6350 8x8 artillery tractor",
+        "manufacturer": "Russia",
+        "losses_total": 7
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Civilian KamAZ 6x6 converted for military use",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ-469 jeep",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 12
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ-452 van",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 15
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ Patriot jeep",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ-31514",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ-23632 pickup truck",
+        "manufacturer": "Russia",
+        "losses_total": 3
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ-23632-148-64 armed pickup truck",
+        "manufacturer": "Russia",
+        "losses_total": 2
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "Toyota Hilux pickup truck",
+        "manufacturer": "Japan",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ-394511 ‘Esaul’",
+        "manufacturer": "Russia",
+        "losses_total": 5
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "UAZ-515195 'Esaul'",
+        "manufacturer": "Russia",
+        "losses_total": 1
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "(Unknown) truck",
+        "manufacturer": "Russia",
+        "losses_total": 300
+    },
+    {
+        "equipment": "Trucks, Vehicles and Jeeps",
+        "model": "(Unknown) vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 46
+    }
+]
