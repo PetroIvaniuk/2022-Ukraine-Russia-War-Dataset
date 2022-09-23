@@ -32,9 +32,9 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 **Important.** Each new record is accumulated data from previous days.
 
 **Important.** Data will be updated daily
-- [Data Personnel](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_personnel.json) 
-- [Data Equipment](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment.json)
-- [Data Equipment Oryx](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_oryx.json)
+- [Data Personnel Losses](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_personnel.json) 
+- [Data Equipment Losses](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment.json)
+- [Data Equipment Losses Oryx](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_oryx.json)
 
 
 ### Data Preprocessing
