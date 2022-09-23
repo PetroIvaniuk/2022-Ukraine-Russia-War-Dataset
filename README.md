@@ -37,6 +37,9 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 
 [Data Equipment](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment.json)
 
+[Data Equipment Oryx](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_oryx.json)
+
+
 ### Data Preprocessing
 If you need daily bases data I recommend the [Daily Data Notebook](https://www.kaggle.com/code/piterfm/daily-data). It contains a full code that shows how to convert the data or you can adapt the below code snippet.
 ```
