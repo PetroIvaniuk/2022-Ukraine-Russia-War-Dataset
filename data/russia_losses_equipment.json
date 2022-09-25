@@ -106,7 +106,7 @@
     },
     {
         "date": "2022-03-04",
-        "day": "9",
+        "day": 9,
         "aircraft": 33,
         "helicopter": 37,
         "tank": 251,
@@ -286,7 +286,7 @@
     },
     {
         "date": "2022-03-16",
-        "day": "21",
+        "day": 21,
         "aircraft": 84,
         "helicopter": 108,
         "tank": 430,
