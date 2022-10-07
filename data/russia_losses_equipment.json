@@ -3761,5 +3761,22 @@
         "vehicles and fuel tanks": 3854,
         "cruise missiles": 246,
         "greatest losses direction": "Kramatorsk, Avdiivka and Kryvyi Rih"
+    },
+    {
+        "date": "2022-10-07",
+        "day": 226,
+        "aircraft": 266,
+        "helicopter": 233,
+        "tank": 2466,
+        "APC": 5093,
+        "field artillery": 1455,
+        "MRL": 344,
+        "drone": 1067,
+        "naval ship": 15,
+        "anti-aircraft warfare": 177,
+        "special equipment": 135,
+        "vehicles and fuel tanks": 3862,
+        "cruise missiles": 246,
+        "greatest losses direction": "Kramatorsk and Kryvyi Rih"
     }
 ]
