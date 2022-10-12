@@ -3845,5 +3845,22 @@
         "vehicles and fuel tanks": 3916,
         "cruise missiles": 295,
         "greatest losses direction": "Bakhmut, Avdiivka and Kramatorsk"
+    },
+    {
+        "date": "2022-10-12",
+        "day": 231,
+        "aircraft": 268,
+        "helicopter": 235,
+        "tank": 2505,
+        "APC": 5181,
+        "field artillery": 1496,
+        "MRL": 355,
+        "drone": 1129,
+        "naval ship": 15,
+        "anti-aircraft warfare": 182,
+        "special equipment": 136,
+        "vehicles and fuel tanks": 3927,
+        "cruise missiles": 315,
+        "greatest losses direction": "Bakhmut and Avdiivka"
     }
 ]
