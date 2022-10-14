@@ -43,7 +43,8 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
  - naval ship: +1
 
 ### Data Preprocessing
-If you need daily bases data I recommend the [Daily Data Notebook](https://www.kaggle.com/code/piterfm/daily-data). It contains a full code that shows how to convert the data or you can adapt the below code snippet.
+If you need daily bases data I recommend the [Daily Data Notebook](https://www.kaggle.com/code/piterfm/daily-data). 
+It contains a full code that shows how to convert the data or you can adapt the below code snippet.
 ```
 df = df.diff().fillna(df).fillna(0).astype(int)
 ```
