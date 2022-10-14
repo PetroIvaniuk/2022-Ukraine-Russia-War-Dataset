@@ -3853,7 +3853,7 @@
         "helicopter": 235,
         "tank": 2505,
         "APC": 5181,
-        "field artillery": 1496,
+        "field artillery": 1507,
         "MRL": 355,
         "drone": 1129,
         "naval ship": 15,
@@ -3874,10 +3874,27 @@
         "MRL": 357,
         "drone": 1182,
         "naval ship": 16,
-        "anti-aircraft warfare": 182,
+        "anti-aircraft warfare": 183,
         "special equipment": 140,
         "vehicles and fuel tanks": 3935,
         "cruise missiles": 316,
         "greatest losses direction": "Kramatorsk and Kryvyi Rih"
+    },
+    {
+        "date": "2022-10-14",
+        "day": 233,
+        "aircraft": 268,
+        "helicopter": 240,
+        "tank": 2521,
+        "APC": 5172,
+        "field artillery": 1566,
+        "MRL": 362,
+        "drone": 1199,
+        "naval ship": 16,
+        "anti-aircraft warfare": 186,
+        "special equipment": 142,
+        "vehicles and fuel tanks": 3944,
+        "cruise missiles": 316,
+        "greatest losses direction": "Kramatorsk and Bakhmut"
     }
 ]
