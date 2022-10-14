@@ -36,6 +36,11 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 - [Data Equipment Losses](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment.json)
 - [Data Equipment Losses Oryx](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_oryx.json)
 
+2022-10-12: Some positions of the total losses were adjusted:
+ - APC: -25, 
+ - field artillery: +32,
+ - drone: +20, 
+ - naval ship: +1
 
 ### Data Preprocessing
 If you need daily bases data I recommend the [Daily Data Notebook](https://www.kaggle.com/code/piterfm/daily-data). It contains a full code that shows how to convert the data or you can adapt the below code snippet.
