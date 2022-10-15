@@ -9,7 +9,7 @@ All data are official and additionally structured by myself.
 A lot of civilians and children have already been killed by russia troops. Ukraine is in war flame and under missile attack now. [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua) [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
 ### Application 
-- [russian Equipment Losses](https://share.streamlit.io/petroivaniuk/ukraine-russia-war/main/russia_losses.py) - is a monitoring dashboard that describes russian Equipment Losses during the 2022 russia invasion of Ukraine.
+- [russian losses application](https://ukraine-russia-war.streamlitapp.com/) - is a monitoring dashboard that describes russian Equipment Losses during the 2022 russia invasion of Ukraine.
 - [Cargo200rus](https://t.me/Cargo200rusBot) - is a telegram bot that represent official losses of the russian armed forces in Ukraine. [GitHub.](https://github.com/MadMan2k/TelegramBot-Cargo200rus)
 
 ### Related Datasets
