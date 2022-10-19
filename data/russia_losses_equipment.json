@@ -3962,5 +3962,22 @@
         "special equipment": 144,
         "vehicles and fuel tanks": 3985,
         "cruise missiles": 318
+    },
+    {
+        "date": "2022-10-19",
+        "day": 238,
+        "aircraft": 269,
+        "helicopter": 242,
+        "tank": 2554,
+        "APC": 5235,
+        "field artillery": 1637,
+        "MRL": 372,
+        "drone": 1286,
+        "naval ship": 16,
+        "anti-aircraft warfare": 189,
+        "special equipment": 146,
+        "vehicles and fuel tanks": 3999,
+        "cruise missiles": 323,
+        "greatest losses direction": "Bakhmut and Kramatorsk"
     }
 ]
