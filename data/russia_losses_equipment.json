@@ -4115,13 +4115,29 @@
         "helicopter": 251,
         "tank": 2640,
         "APC": 5378,
-        "field artillery": 1690,
+        "field artillery": 1698,
         "MRL": 379,
         "drone": 1401,
         "naval ship": 16,
         "anti-aircraft warfare": 192,
         "special equipment": 151,
         "vehicles and fuel tanks": 4088,
+        "cruise missiles": 351
+    },
+    {
+        "date": "2022-10-29",
+        "day": 248,
+        "aircraft": 273,
+        "helicopter": 252,
+        "tank": 2659,
+        "APC": 5401,
+        "field artillery": 1708,
+        "MRL": 380,
+        "drone": 1406,
+        "naval ship": 16,
+        "anti-aircraft warfare": 195,
+        "special equipment": 152,
+        "vehicles and fuel tanks": 4107,
         "cruise missiles": 351
     }
 ]
