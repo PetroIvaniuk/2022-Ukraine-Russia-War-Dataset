@@ -4139,5 +4139,22 @@
         "special equipment": 152,
         "vehicles and fuel tanks": 4107,
         "cruise missiles": 351
+    },
+    {
+        "date": "2022-10-30",
+        "day": 249,
+        "aircraft": 274,
+        "helicopter": 252,
+        "tank": 2672,
+        "APC": 5453,
+        "field artillery": 1724,
+        "MRL": 383,
+        "drone": 1412,
+        "naval ship": 16,
+        "anti-aircraft warfare": 197,
+        "special equipment": 154,
+        "vehicles and fuel tanks": 4120,
+        "cruise missiles": 352,
+        "greatest losses direction": "Donetsk and Lyman"
     }
 ]
