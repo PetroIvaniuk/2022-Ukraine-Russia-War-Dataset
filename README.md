@@ -38,7 +38,7 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 - [Data Equipment Losses Oryx](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_oryx.json)
 
 Some positions of the total losses were adjusted: 
- - date: 2022-10-12, APC: -25, field artillery: +32, drone: +20, naval ship: +1.
+ - date: 2022-10-13, day:231, APC: -25, field artillery: +32, drone: +20, naval ship: +1.
 
 ### Data Preprocessing
 If you need daily bases data I recommend the [Daily Data Notebook](https://www.kaggle.com/code/piterfm/daily-data). 
