@@ -4637,8 +4637,7 @@
         "anti-aircraft warfare": 209,
         "special equipment": 163,
         "vehicles and fuel tanks": 4416,
-        "cruise missiles": 531,
-        "greatest losses direction": "Bakhmut, Lyman and Avdiivka"
+        "cruise missiles": 531
     },
     {
         "date": "2022-11-29",
@@ -4654,8 +4653,7 @@
         "anti-aircraft warfare": 209,
         "special equipment": 163,
         "vehicles and fuel tanks": 4423,
-        "cruise missiles": 531,
-        "greatest losses direction": "Bakhmut, Lyman and Avdiivka"
+        "cruise missiles": 531
     },
     {
         "date": "2022-11-30",
@@ -4671,8 +4669,7 @@
         "anti-aircraft warfare": 210,
         "special equipment": 163,
         "vehicles and fuel tanks": 4429,
-        "cruise missiles": 531,
-        "greatest losses direction": "Bakhmut, Lyman and Avdiivka"
+        "cruise missiles": 531
     },
     {
         "date": "2022-12-01",
@@ -4688,7 +4685,23 @@
         "anti-aircraft warfare": 210,
         "special equipment": 163,
         "vehicles and fuel tanks": 4441,
+        "cruise missiles": 531
+    },
+    {
+        "date": "2022-12-02",
+        "day": 282,
+        "aircraft": 280,
+        "helicopter": 262,
+        "tank": 2916,
+        "APC": 5883,
+        "field artillery": 1905,
+        "MRL": 395,
+        "drone": 1564,
+        "naval ship": 16,
+        "anti-aircraft warfare": 210,
+        "special equipment": 163,
+        "vehicles and fuel tanks": 4464,
         "cruise missiles": 531,
-        "greatest losses direction": "Bakhmut, Lyman and Avdiivka"
+        "greatest losses direction": "Bakhmut and Avdiivka"
     }
 ]
