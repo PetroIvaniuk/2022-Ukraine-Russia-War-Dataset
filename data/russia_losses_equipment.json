@@ -5076,5 +5076,22 @@
         "special equipment": 178,
         "vehicles and fuel tanks": 4635,
         "cruise missiles": 653
+    },
+    {
+        "date": "2022-12-26",
+        "day": 306,
+        "aircraft": 283,
+        "helicopter": 267,
+        "tank": 3016,
+        "APC": 6017,
+        "field artillery": 1996,
+        "MRL": 418,
+        "drone": 1707,
+        "naval ship": 16,
+        "anti-aircraft warfare": 212,
+        "special equipment": 178,
+        "vehicles and fuel tanks": 4647,
+        "cruise missiles": 653,
+        "greatest losses direction": "Kupiansk, Avdiivka and Bakhmut"
     }
 ]
