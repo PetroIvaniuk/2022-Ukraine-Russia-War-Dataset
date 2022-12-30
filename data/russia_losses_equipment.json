@@ -5143,5 +5143,22 @@
         "vehicles and fuel tanks": 4675,
         "cruise missiles": 653,
         "greatest losses direction": "Lyman and Bakhmut"
+    },
+    {
+        "date": "2022-12-30",
+        "day": 310,
+        "aircraft": 283,
+        "helicopter": 268,
+        "tank": 3026,
+        "APC": 6059,
+        "field artillery": 2010,
+        "MRL": 423,
+        "drone": 1740,
+        "naval ship": 16,
+        "anti-aircraft warfare": 212,
+        "special equipment": 180,
+        "vehicles and fuel tanks": 4683,
+        "cruise missiles": 711,
+        "greatest losses direction": "Lyman and Bakhmut"
     }
 ]
