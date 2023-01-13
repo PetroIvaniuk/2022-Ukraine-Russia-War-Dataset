@@ -1990,7 +1990,13 @@
     {
         "date": "2023-01-12",
         "day": 323,
-        "personnel": 113990,
+        "personnel": 113390,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-01-13",
+        "day": 324,
+        "personnel": 114130,
         "personnel*": "about"
     }
 ]
