@@ -2004,5 +2004,11 @@
         "day": 325,
         "personnel": 114660,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-01-15",
+        "day": 326,
+        "personnel": 115290,
+        "personnel*": "about"
     }
 ]
