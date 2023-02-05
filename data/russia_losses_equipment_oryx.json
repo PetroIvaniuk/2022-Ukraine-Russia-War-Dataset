@@ -10,14 +10,14 @@
         "equipment_oryx": "Tanks",
         "model": "T-62M",
         "manufacturer": "the Soviet Union",
-        "losses_total": 42,
+        "losses_total": 50,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-62MV",
         "manufacturer": "the Soviet Union",
-        "losses_total": 11,
+        "losses_total": 12,
         "equipment_ua": "Tanks"
     },
     {
@@ -31,28 +31,28 @@
         "equipment_oryx": "Tanks",
         "model": "T-64BV",
         "manufacturer": "the Soviet Union",
-        "losses_total": 45,
+        "losses_total": 48,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-72A",
         "manufacturer": "the Soviet Union",
-        "losses_total": 35,
+        "losses_total": 36,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-72AV",
         "manufacturer": "the Soviet Union",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-72B",
         "manufacturer": "the Soviet Union",
-        "losses_total": 208,
+        "losses_total": 230,
         "equipment_ua": "Tanks"
     },
     {
@@ -66,14 +66,14 @@
         "equipment_oryx": "Tanks",
         "model": "T-72BA",
         "manufacturer": "Russia",
-        "losses_total": 22,
+        "losses_total": 25,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-72B3",
         "manufacturer": "Russia",
-        "losses_total": 235,
+        "losses_total": 267,
         "equipment_ua": "Tanks"
     },
     {
@@ -87,21 +87,21 @@
         "equipment_oryx": "Tanks",
         "model": "T-72B3 Obr. 2016",
         "manufacturer": "Russia",
-        "losses_total": 190,
+        "losses_total": 202,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "Unknown T-72",
-        "manufacturer": "the Soviet Union",
-        "losses_total": 94,
+        "manufacturer": "Russia",
+        "losses_total": 101,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-80BV",
         "manufacturer": "the Soviet Union",
-        "losses_total": 176,
+        "losses_total": 209,
         "equipment_ua": "Tanks"
     },
     {
@@ -143,42 +143,63 @@
         "equipment_oryx": "Tanks",
         "model": "T-80BVM",
         "manufacturer": "Russia",
-        "losses_total": 61,
+        "losses_total": 67,
+        "equipment_ua": "Tanks"
+    },
+    {
+        "equipment_oryx": "Tanks",
+        "model": "T-80BVM Obr. 2022",
+        "manufacturer": "Russia",
+        "losses_total": 1,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "Unknown T-80",
         "manufacturer": "Russia",
-        "losses_total": 5,
+        "losses_total": 4,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-90A",
         "manufacturer": "Russia",
-        "losses_total": 26,
+        "losses_total": 33,
+        "equipment_ua": "Tanks"
+    },
+    {
+        "equipment_oryx": "Tanks",
+        "model": "T-90S",
+        "manufacturer": "Russia",
+        "losses_total": 3,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "T-90M",
         "manufacturer": "Russia",
-        "losses_total": 6,
+        "losses_total": 10,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Tanks",
         "model": "Unknown tank",
         "manufacturer": "Russia",
-        "losses_total": 171,
+        "losses_total": 188,
         "equipment_ua": "Tanks"
     },
     {
         "equipment_oryx": "Armoured Fighting Vehicles",
-        "model": "BRM-1K reconnaissance vehicle",
+        "model": "BRM-1 and BRM-1K reconnaissance vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 24,
+        "losses_total": 25,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Armoured Fighting Vehicles",
+        "model": "BRM-1K Obr. 2021",
+        "manufacturer": "Russia",
+        "losses_total": 1,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -204,30 +225,37 @@
     },
     {
         "equipment_oryx": "Armoured Fighting Vehicles",
+        "model": "BTR-80-based ZS-88 PsyOps vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Armoured Fighting Vehicles",
         "model": "MT-LB",
         "manufacturer": "the Soviet Union",
-        "losses_total": 333,
+        "losses_total": 357,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Armoured Fighting Vehicles",
         "model": "MT-LBVM and MT-LBVMK",
         "manufacturer": "the Soviet Union",
-        "losses_total": 143,
+        "losses_total": 156,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Armoured Fighting Vehicles",
         "model": "MT-LB with ZU-23 AA gun",
         "manufacturer": "the Soviet Union",
-        "losses_total": 15,
+        "losses_total": 22,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Armoured Fighting Vehicles",
         "model": "MT-LBu",
         "manufacturer": "the Soviet Union",
-        "losses_total": 15,
+        "losses_total": 16,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -262,35 +290,42 @@
         "equipment_oryx": "Armoured Fighting Vehicles",
         "model": "Unknown BTR-D/BMD-2",
         "manufacturer": "the Soviet Union",
-        "losses_total": 10,
+        "losses_total": 9,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Armoured Fighting Vehicles",
+        "model": "BMM-80 ambulance",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Armoured Fighting Vehicles",
         "model": "Unknown AFV",
         "manufacturer": "Russia",
-        "losses_total": 166,
+        "losses_total": 170,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "BMP-1(P)",
         "manufacturer": "the Soviet Union",
-        "losses_total": 214,
+        "losses_total": 274,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "BMP-1AM",
         "manufacturer": "Russia",
-        "losses_total": 22,
+        "losses_total": 21,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "BMP-2(K)",
         "manufacturer": "the Soviet Union",
-        "losses_total": 637,
+        "losses_total": 708,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -311,21 +346,21 @@
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "Unknown BMP-1/2",
         "manufacturer": "the Soviet Union",
-        "losses_total": 84,
+        "losses_total": 101,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "BMP-3",
         "manufacturer": "Russia",
-        "losses_total": 200,
+        "losses_total": 219,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "MT-LBM 6MB",
         "manufacturer": "the Soviet Union",
-        "losses_total": 5,
+        "losses_total": 6,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -339,7 +374,7 @@
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "BMD-2",
         "manufacturer": "the Soviet Union",
-        "losses_total": 173,
+        "losses_total": 190,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -360,7 +395,7 @@
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "BMD-4M",
         "manufacturer": "Russia",
-        "losses_total": 56,
+        "losses_total": 64,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -374,7 +409,7 @@
         "equipment_oryx": "Infantry Fighting Vehicles",
         "model": "BTR-82A(M)",
         "manufacturer": "Russia",
-        "losses_total": 352,
+        "losses_total": 399,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -402,21 +437,21 @@
         "equipment_oryx": "Armoured Personnel Carriers",
         "model": "BTR-80",
         "manufacturer": "the Soviet Union",
-        "losses_total": 135,
+        "losses_total": 153,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Armoured Personnel Carriers",
         "model": "Unknown BTR-80/BTR-82A",
         "manufacturer": "Russia",
-        "losses_total": 47,
+        "losses_total": 45,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Armoured Personnel Carriers",
         "model": "Remdiesel Z-STS Akhmat",
         "manufacturer": "Russia",
-        "losses_total": 2,
+        "losses_total": 4,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -430,21 +465,21 @@
         "equipment_oryx": "Armoured Personnel Carriers",
         "model": "BTR-D",
         "manufacturer": "the Soviet Union",
-        "losses_total": 66,
+        "losses_total": 71,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Armoured Personnel Carriers",
         "model": "BTR-MDM 'Rakushka'",
         "manufacturer": "Russia",
-        "losses_total": 13,
+        "losses_total": 14,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Mine-Resistant Ambush Protected",
         "model": "KamAZ-63968 Typhoon",
         "manufacturer": "Russia",
-        "losses_total": 22,
+        "losses_total": 23,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -465,28 +500,28 @@
         "equipment_oryx": "Mine-Resistant Ambush Protected",
         "model": "K-53949 Linza",
         "manufacturer": "Russia",
-        "losses_total": 12,
+        "losses_total": 11,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Mobility Vehicles",
         "model": "BPM-97 Vystrel",
         "manufacturer": "Russia",
-        "losses_total": 1,
+        "losses_total": 3,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Mobility Vehicles",
         "model": "GAZ Tigr",
         "manufacturer": "Russia",
-        "losses_total": 13,
+        "losses_total": 14,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Mobility Vehicles",
         "model": "GAZ Tigr-M",
         "manufacturer": "Russia",
-        "losses_total": 112,
+        "losses_total": 115,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -500,33 +535,40 @@
         "equipment_oryx": "Infantry Mobility Vehicles",
         "model": "AMN-590951",
         "manufacturer": "Russia",
-        "losses_total": 4,
+        "losses_total": 3,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Infantry Mobility Vehicles",
         "model": "Iveco LMV Rys",
         "manufacturer": "Italy",
-        "losses_total": 28,
+        "losses_total": 31,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "BMP-1KSh command and staff vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "BMD-1KSh-A command vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 11,
+        "losses_total": 12,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
-        "model": "BTR-60PU-12M air defence command vehicle",
+        "model": "BTR-60PU-12command vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Command Posts And Communications Stations",
+        "model": "R-145BM command vehicle",
         "manufacturer": "the Soviet Union",
         "losses_total": 1,
         "equipment_ua": "Armoured Personnel Carriers"
@@ -556,14 +598,14 @@
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "R-149MA1 command and staff vehicle",
         "manufacturer": "Russia",
-        "losses_total": 64,
+        "losses_total": 74,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "R-149MA3 command and staff vehicle",
         "manufacturer": "Russia",
-        "losses_total": 32,
+        "losses_total": 36,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -577,7 +619,7 @@
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "APE-5 command post",
         "manufacturer": "Russia",
-        "losses_total": 2,
+        "losses_total": 4,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -619,19 +661,40 @@
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "R-149AKSh-1 command and signals vehicle",
         "manufacturer": "Russia",
-        "losses_total": 9,
+        "losses_total": 12,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "R-166-0.5 signals vehicle",
         "manufacturer": "Russia",
-        "losses_total": 21,
+        "losses_total": 23,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Command Posts And Communications Stations",
+        "model": "P-240 digital communications vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 1,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
         "model": "P-260 Redut-2US communication system",
+        "manufacturer": "Russia",
+        "losses_total": 1,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Command Posts And Communications Stations",
+        "model": "P-260-U signals vehicle (for Redut-2US signal and communications system)",
+        "manufacturer": "Russia",
+        "losses_total": 1,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Command Posts And Communications Stations",
+        "model": "R-431AM antenna module for the Redut-2US communications system",
         "manufacturer": "Russia",
         "losses_total": 1,
         "equipment_ua": "Armoured Personnel Carriers"
@@ -645,16 +708,9 @@
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
-        "model": "P-260-U signals vehicle (for Redut-2US signal and communications system)",
-        "manufacturer": "Russia",
-        "losses_total": 1,
-        "equipment_ua": "Armoured Personnel Carriers"
-    },
-    {
-        "equipment_oryx": "Command Posts And Communications Stations",
         "model": "MP-1IM signals vehicle",
         "manufacturer": "Russia",
-        "losses_total": 8,
+        "losses_total": 10,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -701,9 +757,23 @@
     },
     {
         "equipment_oryx": "Command Posts And Communications Stations",
+        "model": "P-230T command vehicle",
+        "manufacturer": "Russia",
+        "losses_total": 3,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Command Posts And Communications Stations",
+        "model": "MPUS-K mobile command post",
+        "manufacturer": "Russia",
+        "losses_total": 1,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Command Posts And Communications Stations",
         "model": "Unknown communications station based on the KamAZ 6x6",
         "manufacturer": "Russia",
-        "losses_total": 6,
+        "losses_total": 7,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -724,7 +794,7 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "UR-77 'Meteorit'  mine clearing vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 23,
+        "losses_total": 24,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -752,21 +822,21 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "RKhM-6 CBRN reconnaissance vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 3,
+        "losses_total": 5,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "BAT-2 heavy engineering vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 7,
+        "losses_total": 6,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "MDK-3 trench-digging vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 2,
+        "losses_total": 3,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -787,7 +857,7 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "BREM-1 armoured recovery vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 22,
+        "losses_total": 24,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -801,28 +871,28 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "BREM-Ch ''BREM-4'' armoured recovery vehicle",
         "manufacturer": "the Czech Republic",
-        "losses_total": 5,
+        "losses_total": 4,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "BREM-D armoured recovery vehicle",
         "manufacturer": "Russia",
-        "losses_total": 2,
+        "losses_total": 3,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "BREM-K armoured recovery vehicle",
         "manufacturer": "Russia",
-        "losses_total": 2,
+        "losses_total": 3,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "REM-KL recovery vehicle",
         "manufacturer": "Russia",
-        "losses_total": 6,
+        "losses_total": 8,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -836,14 +906,14 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "MTP-A2.1 recovery vehicle",
         "manufacturer": "Russia",
-        "losses_total": 2,
+        "losses_total": 3,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "Ural-4320 KET-L recovery vehicle",
         "manufacturer": "Russia",
-        "losses_total": 1,
+        "losses_total": 2,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -857,7 +927,7 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "IMR-2(M) combat engineering vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 22,
+        "losses_total": 23,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -871,21 +941,21 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "PTS-2  tracked amphibious transport",
         "manufacturer": "the Soviet Union",
-        "losses_total": 11,
+        "losses_total": 13,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "TMM-3 bridge layer",
         "manufacturer": "the Soviet Union",
-        "losses_total": 24,
+        "losses_total": 25,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "MTU-72 bridge layer",
         "manufacturer": "Russia",
-        "losses_total": 1,
+        "losses_total": 2,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -899,14 +969,14 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "PP-2005 floating bridge",
         "manufacturer": "Russia",
-        "losses_total": 25,
+        "losses_total": 28,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "Pontoon bridge",
         "manufacturer": "Russia",
-        "losses_total": 9,
+        "losses_total": 10,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -920,14 +990,21 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "BMK-460 towing and motor boat",
         "manufacturer": "the Soviet Union",
-        "losses_total": 11,
+        "losses_total": 9,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
+        "equipment_oryx": "Engineering Vehicles And Equipment",
+        "model": "BMK-MT towing and motor boat",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 2,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "BMK-MO towing and motor boat",
         "manufacturer": "the Soviet Union",
-        "losses_total": 1,
+        "losses_total": 2,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -941,7 +1018,7 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "KamAZ-5350 with EOV-3523 excavator",
         "manufacturer": "Russia",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -969,7 +1046,7 @@
         "equipment_oryx": "Engineering Vehicles And Equipment",
         "model": "KamAZ KMV-10V boom crane truck",
         "manufacturer": "Russia",
-        "losses_total": 3,
+        "losses_total": 4,
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
@@ -1029,6 +1106,13 @@
         "equipment_ua": "Armoured Personnel Carriers"
     },
     {
+        "equipment_oryx": "Engineering Vehicles And Equipment",
+        "model": "APA-80 engine starting vehicle",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1,
+        "equipment_ua": "Armoured Personnel Carriers"
+    },
+    {
         "equipment_oryx": "Self-Propelled Anti-Tank Missile Systems",
         "model": "9P148 Konkurs",
         "manufacturer": "the Soviet Union",
@@ -1039,7 +1123,7 @@
         "equipment_oryx": "Self-Propelled Anti-Tank Missile Systems",
         "model": "9P149 Shturm-S",
         "manufacturer": "the Soviet Union",
-        "losses_total": 24,
+        "losses_total": 32,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1047,34 +1131,6 @@
         "model": "9P163M-1 Kornet-T",
         "manufacturer": "Russia",
         "losses_total": 2,
-        "equipment_ua": "Artillery Systems"
-    },
-    {
-        "equipment_oryx": "Heavy Mortars",
-        "model": "120mm 2B11/2S12",
-        "manufacturer": "the Soviet Union",
-        "losses_total": 11,
-        "equipment_ua": "Artillery Systems"
-    },
-    {
-        "equipment_oryx": "Heavy Mortars",
-        "model": "120mm 2B11/2S12A",
-        "manufacturer": "Russia",
-        "losses_total": 6,
-        "equipment_ua": "Artillery Systems"
-    },
-    {
-        "equipment_oryx": "Heavy Mortars",
-        "model": "2B9 Vasilek 82mm automatic gun mortar",
-        "manufacturer": "the Soviet Union",
-        "losses_total": 5,
-        "equipment_ua": "Artillery Systems"
-    },
-    {
-        "equipment_oryx": "Heavy Mortars",
-        "model": "Unknown heavy mortar",
-        "manufacturer": "Russia",
-        "losses_total": 3,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1088,7 +1144,7 @@
         "equipment_oryx": "Artillery Support Vehicles And Equipment",
         "model": "1V13(M) battery fire control center",
         "manufacturer": "the Soviet Union",
-        "losses_total": 14,
+        "losses_total": 16,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1123,7 +1179,7 @@
         "equipment_oryx": "Artillery Support Vehicles And Equipment",
         "model": "1V119 artillery fire direction vehicle",
         "manufacturer": "the Soviet Union",
-        "losses_total": 9,
+        "losses_total": 11,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1137,7 +1193,7 @@
         "equipment_oryx": "Artillery Support Vehicles And Equipment",
         "model": "9T452 transporter-loader (for BM-27 'Uragan' MRL)",
         "manufacturer": "the Soviet Union",
-        "losses_total": 31,
+        "losses_total": 37,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1165,42 +1221,49 @@
         "equipment_oryx": "Towed Artillery",
         "model": "100mm MT-12 anti-tank gun",
         "manufacturer": "the Soviet Union",
-        "losses_total": 7,
+        "losses_total": 9,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Towed Artillery",
         "model": "120mm 2B16 Nona-K howitzer",
         "manufacturer": "the Soviet Union",
-        "losses_total": 10,
+        "losses_total": 11,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Towed Artillery",
-        "model": "122mm D-30 howitzer",
-        "manufacturer": "the Soviet Union",
-        "losses_total": 35,
-        "equipment_ua": "Artillery Systems"
-    },
-    {
-        "equipment_oryx": "Towed Artillery",
-        "model": "152mm D-20 gun-howitzer",
+        "model": "2B9 Vasilek 82mm automatic gun mortar",
         "manufacturer": "the Soviet Union",
         "losses_total": 5,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Towed Artillery",
+        "model": "122mm D-30 howitzer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 39,
+        "equipment_ua": "Artillery Systems"
+    },
+    {
+        "equipment_oryx": "Towed Artillery",
+        "model": "152mm D-20 gun-howitzer",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 8,
+        "equipment_ua": "Artillery Systems"
+    },
+    {
+        "equipment_oryx": "Towed Artillery",
         "model": "152mm 2A65 Msta-B howitzer",
         "manufacturer": "the Soviet Union",
-        "losses_total": 70,
+        "losses_total": 75,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Towed Artillery",
         "model": "152mm 2A36 Giatsint-B",
         "manufacturer": "the Soviet Union",
-        "losses_total": 8,
+        "losses_total": 13,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1214,14 +1277,14 @@
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "120mm 2S9 Nona",
         "manufacturer": "the Soviet Union",
-        "losses_total": 15,
+        "losses_total": 22,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "120mm 2S23 Nona-SVK",
         "manufacturer": "Russia",
-        "losses_total": 3,
+        "losses_total": 4,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1235,35 +1298,35 @@
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "122mm 2S1 Gvozdika",
         "manufacturer": "the Soviet Union",
-        "losses_total": 34,
+        "losses_total": 41,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "152mm 2S3(M) Akatsiya",
         "manufacturer": "the Soviet Union",
-        "losses_total": 85,
+        "losses_total": 97,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "152mm 2S5 Giatsint-S",
         "manufacturer": "the Soviet Union",
-        "losses_total": 15,
+        "losses_total": 19,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "152mm 2S19 Msta-S",
         "manufacturer": "the Soviet Union",
-        "losses_total": 91,
+        "losses_total": 99,
         "equipment_ua": "Artillery Systems"
     },
     {
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "152mm 2S33 Msta-SM2",
         "manufacturer": "Russia",
-        "losses_total": 22,
+        "losses_total": 24,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1277,7 +1340,7 @@
         "equipment_oryx": "Self-Propelled Artillery",
         "model": "240mm 2S4 Tyulpan",
         "manufacturer": "the Soviet Union",
-        "losses_total": 2,
+        "losses_total": 4,
         "equipment_ua": "Artillery Systems"
     },
     {
@@ -1291,21 +1354,21 @@
         "equipment_oryx": "Multiple Rocket Launchers",
         "model": "122mm BM-21 Grad",
         "manufacturer": "the Soviet Union",
-        "losses_total": 92,
+        "losses_total": 101,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
         "equipment_oryx": "Multiple Rocket Launchers",
-        "model": "122mm 9P138 'Grad-1'",
+        "model": "122mm 9P138 Grad-1",
         "manufacturer": "the Soviet Union",
-        "losses_total": 2,
+        "losses_total": 3,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
         "equipment_oryx": "Multiple Rocket Launchers",
         "model": "220mm BM-27 Uragan",
         "manufacturer": "the Soviet Union",
-        "losses_total": 42,
+        "losses_total": 47,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
@@ -1361,21 +1424,21 @@
         "equipment_oryx": "Self-Propelled Anti-Aircraft Guns",
         "model": "2K22M1 Tunguska",
         "manufacturer": "Russia",
-        "losses_total": 12,
+        "losses_total": 13,
         "equipment_ua": "Anti-aircraft Warfare Systems"
     },
     {
         "equipment_oryx": "Surface-To-Air Missile Systems",
         "model": "9K33 Osa",
         "manufacturer": "the Soviet Union",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
         "equipment_oryx": "Surface-To-Air Missile Systems",
         "model": "9K35 Strela-10",
         "manufacturer": "the Soviet Union",
-        "losses_total": 12,
+        "losses_total": 14,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
@@ -1389,14 +1452,14 @@
         "equipment_oryx": "Surface-To-Air Missile Systems",
         "model": "9A39M1-2 TEL (for Buk-M1-2)",
         "manufacturer": "Russia",
-        "losses_total": 4,
+        "losses_total": 5,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
         "equipment_oryx": "Surface-To-Air Missile Systems",
         "model": "9A317 TELAR (for Buk-M2)",
         "manufacturer": "Russia",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
@@ -1424,35 +1487,35 @@
         "equipment_oryx": "Surface-To-Air Missile Systems",
         "model": "9A331 TLAR (for 9K331 Tor-M1)",
         "manufacturer": "Russia",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
         "equipment_oryx": "Surface-To-Air Missile Systems",
         "model": "9A331M TLAR (for 9K332 Tor-M2)",
         "manufacturer": "Russia",
-        "losses_total": 6,
+        "losses_total": 8,
+        "equipment_ua": "Multiple Rocket Launchers"
+    },
+    {
+        "equipment_oryx": "Surface-To-Air Missile Systems",
+        "model": "9K331MDT Tor-M2DT",
+        "manufacturer": "Russia",
+        "losses_total": 2,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
         "equipment_oryx": "Surface-To-Air Missile Systems",
         "model": "Pantsir-S1",
         "manufacturer": "Russia",
-        "losses_total": 12,
+        "losses_total": 14,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
         "equipment_oryx": "Surface-To-Air Missile Systems",
-        "model": "5P85SM (launcher for S-300 PMU-1)",
-        "manufacturer": "the Soviet Union",
+        "model": "5P85SM2-01 (launcher for S-400)",
+        "manufacturer": "Russia",
         "losses_total": 1,
-        "equipment_ua": "Multiple Rocket Launchers"
-    },
-    {
-        "equipment_oryx": "Surface-To-Air Missile Systems",
-        "model": "5P85SD (launcher for S-300 PMU(-1))",
-        "manufacturer": "the Soviet Union",
-        "losses_total": 2,
         "equipment_ua": "Multiple Rocket Launchers"
     },
     {
@@ -1522,7 +1585,7 @@
         "equipment_oryx": "Radars",
         "model": "1L261 (for 1L260 Zoopark-1M counter-battery radar complex)",
         "manufacturer": "Russia",
-        "losses_total": 5,
+        "losses_total": 6,
         "equipment_ua": "Special Equipment"
     },
     {
@@ -1541,7 +1604,7 @@
     },
     {
         "equipment_oryx": "Radars",
-        "model": "5N63S 'Flap Lid B' (for S-300PMU(-1))",
+        "model": "P-18-2 2D VHF surveillance radar",
         "manufacturer": "Russia",
         "losses_total": 1,
         "equipment_ua": "Special Equipment"
@@ -1648,7 +1711,7 @@
         "equipment_oryx": "Aircraft",
         "model": "Su-25 close air support aircraft",
         "manufacturer": "the Soviet Union",
-        "losses_total": 23,
+        "losses_total": 25,
         "equipment_ua": "Aircrafts"
     },
     {
@@ -1662,14 +1725,14 @@
         "equipment_oryx": "Aircraft",
         "model": "Su-24M/MR strike/tactical reconnaissance aircraft",
         "manufacturer": "the Soviet Union",
-        "losses_total": 7,
+        "losses_total": 8,
         "equipment_ua": "Aircrafts"
     },
     {
         "equipment_oryx": "Aircraft",
         "model": "Su-34 strike aircraft",
         "manufacturer": "Russia",
-        "losses_total": 16,
+        "losses_total": 17,
         "equipment_ua": "Aircrafts"
     },
     {
@@ -1683,6 +1746,20 @@
         "equipment_oryx": "Aircraft",
         "model": "Unknown Su-30/Su-34/Su-35",
         "manufacturer": "Russia",
+        "losses_total": 1,
+        "equipment_ua": "Aircrafts"
+    },
+    {
+        "equipment_oryx": "Aircraft",
+        "model": "Tu-22M3 strategic bomber",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1,
+        "equipment_ua": "Aircrafts"
+    },
+    {
+        "equipment_oryx": "Aircraft",
+        "model": "Tu-95MS strategic bomber",
+        "manufacturer": "the Soviet Union",
         "losses_total": 1,
         "equipment_ua": "Aircrafts"
     },
@@ -1739,7 +1816,7 @@
         "equipment_oryx": "Helicopters",
         "model": "Ka-52 'Alligator' attack helicopter",
         "manufacturer": "Russia",
-        "losses_total": 27,
+        "losses_total": 31,
         "equipment_ua": "Helicopters"
     },
     {
@@ -1765,9 +1842,23 @@
     },
     {
         "equipment_oryx": "Unmanned Combat Aerial Vehicles",
+        "model": "Forpost-RU",
+        "manufacturer": "Russia",
+        "losses_total": 1,
+        "equipment_ua": "Unmanned Aerial Vehicles"
+    },
+    {
+        "equipment_oryx": "Unmanned Combat Aerial Vehicles",
         "model": "Mohajer-6",
         "manufacturer": "Iran",
         "losses_total": 1,
+        "equipment_ua": "Unmanned Aerial Vehicles"
+    },
+    {
+        "equipment_oryx": "Unmanned Combat Aerial Vehicles",
+        "model": "Orlan-10 UCAV",
+        "manufacturer": "Russia",
+        "losses_total": 2,
         "equipment_ua": "Unmanned Aerial Vehicles"
     },
     {
@@ -1781,7 +1872,7 @@
         "equipment_oryx": "Reconnaissance Unmanned Aerial Vehicles",
         "model": "Orlan-10",
         "manufacturer": "Russia",
-        "losses_total": 93,
+        "losses_total": 116,
         "equipment_ua": "Unmanned Aerial Vehicles"
     },
     {
@@ -1793,9 +1884,16 @@
     },
     {
         "equipment_oryx": "Reconnaissance Unmanned Aerial Vehicles",
+        "model": "Orlan-10 'Moskit' jamming UAV",
+        "manufacturer": "Russia",
+        "losses_total": 1,
+        "equipment_ua": "Unmanned Aerial Vehicles"
+    },
+    {
+        "equipment_oryx": "Reconnaissance Unmanned Aerial Vehicles",
         "model": "'Orlan-20' ''Kartograf''",
         "manufacturer": "Russia",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Unmanned Aerial Vehicles"
     },
     {
@@ -1816,7 +1914,7 @@
         "equipment_oryx": "Reconnaissance Unmanned Aerial Vehicles",
         "model": "Eleron-3",
         "manufacturer": "Russia",
-        "losses_total": 15,
+        "losses_total": 17,
         "equipment_ua": "Unmanned Aerial Vehicles"
     },
     {
@@ -1830,14 +1928,14 @@
         "equipment_oryx": "Reconnaissance Unmanned Aerial Vehicles",
         "model": "Takhion",
         "manufacturer": "Russia",
-        "losses_total": 2,
+        "losses_total": 3,
         "equipment_ua": "Unmanned Aerial Vehicles"
     },
     {
         "equipment_oryx": "Reconnaissance Unmanned Aerial Vehicles",
         "model": "ZALA 421-16Е2",
         "manufacturer": "Russia",
-        "losses_total": 5,
+        "losses_total": 6,
         "equipment_ua": "Unmanned Aerial Vehicles"
     },
     {
@@ -1872,7 +1970,7 @@
         "equipment_oryx": "Reconnaissance Unmanned Aerial Vehicles",
         "model": "Supercam S350",
         "manufacturer": "Russia",
-        "losses_total": 1,
+        "losses_total": 2,
         "equipment_ua": "Unmanned Aerial Vehicles"
     },
     {
@@ -1956,7 +2054,7 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "GAZ-66",
         "manufacturer": "the Soviet Union",
-        "losses_total": 21,
+        "losses_total": 25,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -1977,14 +2075,14 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KrAZ-260 tanker",
         "manufacturer": "the Soviet Union",
-        "losses_total": 1,
+        "losses_total": 2,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "ZiL-131",
         "manufacturer": "the Soviet Union",
-        "losses_total": 13,
+        "losses_total": 23,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -2005,7 +2103,7 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "9T244 transloader (for 9A330/1 Tor)",
         "manufacturer": "Russia",
-        "losses_total": 5,
+        "losses_total": 7,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -2031,51 +2129,58 @@
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
+        "model": "Ural-375D tanker",
+        "manufacturer": "the Soviet Union",
+        "losses_total": 1,
+        "equipment_ua": "Vehicle and Fuel Tank"
+    },
+    {
+        "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "Ural-4320",
         "manufacturer": "Russia",
-        "losses_total": 507,
+        "losses_total": 585,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "Ural-4320 with ZU-23 AA gun",
         "manufacturer": "Russia",
-        "losses_total": 4,
+        "losses_total": 5,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "Ural-4320 tanker",
         "manufacturer": "Russia",
-        "losses_total": 127,
+        "losses_total": 150,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "Ural Avtozaks",
         "manufacturer": "Russia",
-        "losses_total": 6,
+        "losses_total": 7,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "Ural-43206",
         "manufacturer": "Russia",
-        "losses_total": 99,
+        "losses_total": 115,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "Ural Federal",
         "manufacturer": "Russia",
-        "losses_total": 27,
+        "losses_total": 29,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "Ural-5323",
         "manufacturer": "Russia",
-        "losses_total": 3,
+        "losses_total": 4,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -2103,35 +2208,35 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KamAZ 4x4",
         "manufacturer": "Russia",
-        "losses_total": 18,
+        "losses_total": 22,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KamAZ 6x6",
         "manufacturer": "Russia",
-        "losses_total": 561,
+        "losses_total": 650,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KamAZ 6x6 with ZU-23 AA gun",
         "manufacturer": "Russia",
-        "losses_total": 6,
+        "losses_total": 7,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KamAZ 6x6 tanker",
         "manufacturer": "Russia",
-        "losses_total": 96,
+        "losses_total": 112,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KamAZ 8x8",
         "manufacturer": "Russia",
-        "losses_total": 14,
+        "losses_total": 16,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -2145,14 +2250,14 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KamAZ-5350 with armoured cabin",
         "manufacturer": "Russia",
-        "losses_total": 8,
+        "losses_total": 9,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "KamAZ with MM-501 armoured cabin",
         "manufacturer": "Russia",
-        "losses_total": 19,
+        "losses_total": 23,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -2180,14 +2285,14 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "UAZ-469 jeep",
         "manufacturer": "the Soviet Union",
-        "losses_total": 27,
+        "losses_total": 28,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "UAZ-452 van",
         "manufacturer": "the Soviet Union",
-        "losses_total": 31,
+        "losses_total": 36,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -2222,7 +2327,7 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "UAZ-23632-148-64 armed pickup truck",
         "manufacturer": "Russia",
-        "losses_total": 4,
+        "losses_total": 5,
         "equipment_ua": "Vehicle and Fuel Tank"
     },
     {
@@ -2257,7 +2362,7 @@
         "equipment_oryx": "Trucks, Vehicles and Jeeps",
         "model": "(Unknown) vehicle",
         "manufacturer": "Russia",
-        "losses_total": 46,
+        "losses_total": 45,
         "equipment_ua": "Vehicle and Fuel Tank"
     }
 ]
