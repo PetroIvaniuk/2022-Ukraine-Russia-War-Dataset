@@ -2190,5 +2190,11 @@
         "day": 356,
         "personnel": 139080,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-02-15",
+        "day": 357,
+        "personnel": 139770,
+        "personnel*": "about"
     }
 ]
