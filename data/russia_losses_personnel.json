@@ -254,7 +254,7 @@
     {
         "date": "2022-04-02",
         "day": 38,
-        "personnel": 17700,
+        "personnel": 17800,
         "personnel*": "about",
         "POW": 460
     },
@@ -2261,6 +2261,12 @@
         "date": "2023-02-26",
         "day": 368,
         "personnel": 148130,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-02-27",
+        "day": 369,
+        "personnel": 148690,
         "personnel*": "about"
     }
 ]
