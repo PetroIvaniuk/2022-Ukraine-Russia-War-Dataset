@@ -6602,5 +6602,21 @@
         "special equipment": 291,
         "vehicles and fuel tanks": 5518,
         "cruise missiles": 911
+    },
+    {
+        "date": "2023-03-31",
+        "day": 401,
+        "aircraft": 306,
+        "helicopter": 291,
+        "tank": 3615,
+        "APC": 6977,
+        "field artillery": 2675,
+        "MRL": 526,
+        "drone": 2248,
+        "naval ship": 18,
+        "anti-aircraft warfare": 278,
+        "special equipment": 294,
+        "vehicles and fuel tanks": 5521,
+        "cruise missiles": 911
     }
 ]
