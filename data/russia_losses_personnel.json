@@ -2460,5 +2460,11 @@
         "day": 401,
         "personnel": 173360,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-04-01",
+        "day": 402,
+        "personnel": 173990,
+        "personnel*": "about"
     }
 ]
