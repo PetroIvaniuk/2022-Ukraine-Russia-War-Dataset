@@ -2586,5 +2586,17 @@
         "day": 422,
         "personnel": 185050,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-04-22",
+        "day": 423,
+        "personnel": 185730,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-04-23",
+        "day": 424,
+        "personnel": 186420,
+        "personnel*": "about"
     }
 ]
