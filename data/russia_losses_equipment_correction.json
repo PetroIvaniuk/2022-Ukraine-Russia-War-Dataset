@@ -2,9 +2,33 @@
     {
         "date": "2022-10-13",
         "day": 231,
+        "aircraft": 0,
+        "helicopter": 0,
+        "tank": 0,
         "APC": -25,
         "field artillery": 32,
+        "MRL": 0,
         "drone": 20,
-        "naval ship": 1
+        "naval ship": 1,
+        "anti-aircraft warfare": 0,
+        "special equipment": 0,
+        "vehicles and fuel tanks": 0,
+        "cruise missiles": 0
+    },
+    {
+        "date": "2023-05-27",
+        "day": 458,
+        "aircraft": 3,
+        "helicopter": 2,
+        "tank": -5,
+        "APC": 7,
+        "field artillery": 8,
+        "MRL": 2,
+        "drone": 49,
+        "naval ship": 0,
+        "anti-aircraft warfare": 0,
+        "special equipment": 0,
+        "vehicles and fuel tanks": 11,
+        "cruise missiles": 31
     }
 ]
