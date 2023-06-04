@@ -2844,5 +2844,11 @@
         "day": 465,
         "personnel": 209470,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-06-04",
+        "day": 466,
+        "personnel": 209940,
+        "personnel*": "about"
     }
 ]
