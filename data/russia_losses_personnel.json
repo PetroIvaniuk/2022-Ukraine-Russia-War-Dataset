@@ -2964,5 +2964,11 @@
         "day": 485,
         "personnel": 223330,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-06-24",
+        "day": 486,
+        "personnel": 223910,
+        "personnel*": "about"
     }
 ]
