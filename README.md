@@ -4,7 +4,7 @@
 
 <img src="https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/images/dataset_2022_war_ukraine_russia.png" alt="drawing" width="1200"/>
 
-This is the dataset that describes Equipment Losses & Death Toll & Military Wounded & Prisoner of War of russians in 2022 Ukraine russia War. 
+This is the dataset that describes Equipment Losses & Death Toll & Military Wounded & Prisoners of War of russians in 2022 Ukraine russia War. 
 All data are official and additionally structured by myself. 
 A lot of civilians and children have already been killed by russia troops. Ukraine is in war flame and under missile attack now. [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua) [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 
@@ -17,7 +17,7 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 - [2022 Ukraine Russia War, Losses, Oryx + Images](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russia-war-equipment-losses-oryx) - Ukraine and russia Equipment Losses based on Oryx Investigation.
 - [russian navy (Military Maritime Fleet)](https://www.kaggle.com/datasets/piterfm/russian-navy) - all Surface Combatants, Submarines, Littoral Warfare Ships, Rescue, and Auxiliary Ships. Ship losses During The 2022 russian Invasion Of Ukraine are included.
 - [Social Media Athletes from russia & belarus](https://www.kaggle.com/datasets/piterfm/olympic-athletes-social-media-russia-belarus) - Social Media of russia and belarus athletes that took part in Beijing 2022 Olympic Winter Games.
-- [Kaggle, Data in CSV format](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - the same data on Kaggle. You can also look at the variety of [Kaggle notebooks](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) with analysis and visualisation.
+- [Kaggle, Data in CSV format](https://www.kaggle.com/piterfm/2022-ukraine-russian-war) - the same data on Kaggle. You can also look at the variety of [Kaggle notebooks](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war/code) with analysis and visualization.
 
 ### Data Sources
 1. Main data sources are [General Staff of the Armed Forces of Ukraine](https://www.zsu.gov.ua/en) and [Ministry of Defence of Ukraine](https://www.mil.gov.ua/en/). Data from different battlefields are gathered. The calculation is complicated by the high intensity of hostilities. Data are being updated.
@@ -30,9 +30,9 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
  - [eMap](https://vadimklimenko.com/map/) - Air Raid Alert Map of Ukraine
 5. Sanctions Databases:
  - [Ukraine Russia related sanctions](https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions) by USA Office of Foreign Assets Control
- - [Sanction Lists](https://sanctions.nazk.gov.ua/en/sanction-lists/) by Ministry of Foreign Affairs of Ukraine and National Agency on Corruption Prevention
- - [RUPEP.ORG](https://rupep.org/en/) - public database of domestic politically exposed persons of russia and belarus
- - [Open Sanctions](https://www.opensanctions.org/) - helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products
+ - [Sanction Lists](https://sanctions.nazk.gov.ua/en/sanction-lists/) by the Ministry of Foreign Affairs of Ukraine and the National Agency on Corruption Prevention
+ - [RUPEP.ORG](https://rupep.org/en/) - a public database of domestic politically exposed persons of russia and belarus
+ - [Open Sanctions](https://www.opensanctions.org/) - helps investigators find leads, allows companies to manage risk, and enables technologists to build data-driven products
  - [Correctiv](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/) - live monitoring of all sanctions against Russia
  - [Tracking sanctions against Russia](https://graphics.reuters.com/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/index.html) - Reuters project.
 6. [Russia’s Attacks on Civilian Targets Have Obliterated Everyday Life in Ukraine](https://www.nytimes.com/interactive/2022/03/23/world/europe/ukraine-civilian-attacks.html) by NYTimes.
@@ -44,7 +44,7 @@ A lot of civilians and children have already been killed by russia troops. Ukrai
 **Important.** Data will be updated daily
 - [Personnel Losses JSON](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_personnel.json) - contains Personnel Losses during the war
 - [Equipment Losses JSON](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment.json) - contains Equipment Losses during the war
-- [Equipment Losses Correction JSON](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_correction.json) - contains some data correction in Equipment Losses Dataset (date: 2022-10-13, date: 2022-05-27)
+- [Equipment Losses Correction JSON](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_correction.json) - contains some data correction in Equipment Losses Dataset (date: 2022-10-13, date: 2023-05-27)
 - [Equipment Losses Oryx JSON](https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset/blob/main/data/russia_losses_equipment_oryx.json) - contains more  granular data of Equipment Losses during the war based on Oryx
 
 ### Data Preprocessing
