@@ -3000,5 +3000,17 @@
         "day": 491,
         "personnel": 227780,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-06-30",
+        "day": 492,
+        "personnel": 228340,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-07-01",
+        "day": 493,
+        "personnel": 228870,
+        "personnel*": "about"
     }
 ]
