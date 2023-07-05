@@ -3018,5 +3018,23 @@
         "day": 494,
         "personnel": 229660,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-07-03",
+        "day": 495,
+        "personnel": 230260,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-07-04",
+        "day": 496,
+        "personnel": 231030,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-07-05",
+        "day": 497,
+        "personnel": 231700,
+        "personnel*": "about"
     }
 ]
