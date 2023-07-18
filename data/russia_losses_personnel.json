@@ -3108,5 +3108,11 @@
         "day": 509,
         "personnel": 238300,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-07-18",
+        "day": 510,
+        "personnel": 239010,
+        "personnel*": "about"
     }
 ]
