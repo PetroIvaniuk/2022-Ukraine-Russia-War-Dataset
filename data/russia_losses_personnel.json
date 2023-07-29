@@ -3156,5 +3156,29 @@
         "day": 517,
         "personnel": 243220,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-07-26",
+        "day": 518,
+        "personnel": 243680,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-07-27",
+        "day": 519,
+        "personnel": 244270,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-07-28",
+        "day": 520,
+        "personnel": 244830,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-07-29",
+        "day": 521,
+        "personnel": 245220,
+        "personnel*": "about"
     }
 ]
