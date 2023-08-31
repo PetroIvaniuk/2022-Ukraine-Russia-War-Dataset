@@ -3366,5 +3366,17 @@
         "day": 552,
         "personnel": 261840,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-08-30",
+        "day": 553,
+        "personnel": 262410,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-08-31",
+        "day": 554,
+        "personnel": 263020,
+        "personnel*": "about"
     }
 ]
