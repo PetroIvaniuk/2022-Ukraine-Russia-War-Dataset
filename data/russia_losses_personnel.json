@@ -3378,5 +3378,23 @@
         "day": 554,
         "personnel": 263020,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-09-01",
+        "day": 555,
+        "personnel": 263490,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-09-02",
+        "day": 556,
+        "personnel": 264060,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-09-03",
+        "day": 557,
+        "personnel": 264660,
+        "personnel*": "about"
     }
 ]

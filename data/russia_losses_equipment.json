@@ -9065,6 +9065,54 @@
         "anti-aircraft warfare": 500,
         "special equipment": 830,
         "vehicles and fuel tanks": 7976,
-        "cruise missiles": 1426
+        "cruise missiles": 1445
+    },
+    {
+        "date": "2023-09-01",
+        "day": 555,
+        "aircraft": 315,
+        "helicopter": 316,
+        "tank": 4459,
+        "APC": 8613,
+        "field artillery": 5530,
+        "MRL": 735,
+        "drone": 4421,
+        "naval ship": 18,
+        "anti-aircraft warfare": 500,
+        "special equipment": 831,
+        "vehicles and fuel tanks": 8009,
+        "cruise missiles": 1445
+    },
+    {
+        "date": "2023-09-02",
+        "day": 556,
+        "aircraft": 315,
+        "helicopter": 316,
+        "tank": 4471,
+        "APC": 8637,
+        "field artillery": 5560,
+        "MRL": 736,
+        "drone": 4433,
+        "naval ship": 18,
+        "anti-aircraft warfare": 501,
+        "special equipment": 835,
+        "vehicles and fuel tanks": 8043,
+        "cruise missiles": 1447
+    },
+    {
+        "date": "2023-09-03",
+        "day": 557,
+        "aircraft": 315,
+        "helicopter": 316,
+        "tank": 4476,
+        "APC": 8649,
+        "field artillery": 5582,
+        "MRL": 739,
+        "drone": 4444,
+        "naval ship": 18,
+        "anti-aircraft warfare": 502,
+        "special equipment": 841,
+        "vehicles and fuel tanks": 8102,
+        "cruise missiles": 1447
     }
 ]
