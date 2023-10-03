@@ -30,5 +30,22 @@
         "special equipment": 0,
         "vehicles and fuel tanks": 11,
         "cruise missiles": 31
+    },
+    {
+        "date": "2023-10-03",
+        "day": 587,
+        "aircraft": -1,
+        "helicopter": 0,
+        "tank": 5,
+        "APC": 0,
+        "field artillery": 0,
+        "MRL": 0,
+        "drone": -1,
+        "naval ship": 0,
+        "submarines": 0,
+        "anti-aircraft warfare": 3,
+        "special equipment": 0,
+        "vehicles and fuel tanks": 0,
+        "cruise missiles": 0
     }
 ]
