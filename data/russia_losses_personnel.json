@@ -3624,5 +3624,17 @@
         "day": 595,
         "personnel": 283900,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-10-12",
+        "day": 596,
+        "personnel": 284890,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-10-13",
+        "day": 597,
+        "personnel": 285920,
+        "personnel*": "about"
     }
 ]
