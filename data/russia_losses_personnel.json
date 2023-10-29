@@ -3720,5 +3720,17 @@
         "day": 611,
         "personnel": 297680,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-10-28",
+        "day": 612,
+        "personnel": 298420,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-10-29",
+        "day": 613,
+        "personnel": 299080,
+        "personnel*": "about"
     }
 ]
