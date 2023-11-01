@@ -3744,5 +3744,11 @@
         "day": 615,
         "personnel": 300810,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-11-01",
+        "day": 616,
+        "personnel": 301490,
+        "personnel*": "about"
     }
 ]
