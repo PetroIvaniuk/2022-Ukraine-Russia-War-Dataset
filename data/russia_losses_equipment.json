@@ -10114,7 +10114,7 @@
         "aircraft": 322,
         "helicopter": 324,
         "tank": 5241,
-        "APC": 9834,
+        "APC": 9877,
         "field artillery": 7292,
         "MRL": 850,
         "drone": 5488,
@@ -10124,5 +10124,22 @@
         "special equipment": 1032,
         "vehicles and fuel tanks": 9658,
         "cruise missiles": 1549
+    },
+    {
+        "date": "2023-11-03",
+        "day": 618,
+        "aircraft": 322,
+        "helicopter": 324,
+        "tank": 5265,
+        "APC": 9901,
+        "field artillery": 7328,
+        "MRL": 854,
+        "drone": 5495,
+        "naval ship": 20,
+        "submarines": 1,
+        "anti-aircraft warfare": 566,
+        "special equipment": 1034,
+        "vehicles and fuel tanks": 9691,
+        "cruise missiles": 1551
     }
 ]
