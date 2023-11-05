@@ -3768,5 +3768,11 @@
         "day": 619,
         "personnel": 304100,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-11-05",
+        "day": 620,
+        "personnel": 305090,
+        "personnel*": "about"
     }
 ]
