@@ -3942,5 +3942,17 @@
         "day": 648,
         "personnel": 332040,
         "personnel*": "about"
+    },
+    {
+        "date": "2023-12-04",
+        "day": 649,
+        "personnel": 332810,
+        "personnel*": "about"
+    },
+    {
+        "date": "2023-12-05",
+        "day": 650,
+        "personnel": 333840,
+        "personnel*": "about"
     }
 ]
