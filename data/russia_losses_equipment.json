@@ -11324,12 +11324,29 @@
         "APC": 11254,
         "field artillery": 8710,
         "MRL": 957,
-        "drone": 6835,
+        "drone": 6836,
         "naval ship": 23,
         "submarines": 1,
         "anti-aircraft warfare": 642,
         "special equipment": 1339,
         "vehicles and fuel tanks": 11612,
+        "cruise missiles": 1806
+    },
+    {
+        "date": "2024-01-13",
+        "day": 689,
+        "aircraft": 329,
+        "helicopter": 324,
+        "tank": 6065,
+        "APC": 11269,
+        "field artillery": 8728,
+        "MRL": 957,
+        "drone": 6848,
+        "naval ship": 23,
+        "submarines": 1,
+        "anti-aircraft warfare": 646,
+        "special equipment": 1345,
+        "vehicles and fuel tanks": 11632,
         "cruise missiles": 1806
     }
 ]
