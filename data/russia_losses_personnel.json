@@ -4218,5 +4218,17 @@
         "day": 694,
         "personnel": 373600,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-01-19",
+        "day": 695,
+        "personnel": 374520,
+        "personnel*": "about"
+    },
+    {
+        "date": "2024-01-20",
+        "day": 696,
+        "personnel": 375270,
+        "personnel*": "about"
     }
 ]
