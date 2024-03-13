@@ -10,6 +10,7 @@
         "MRL": 0,
         "drone": 20,
         "naval ship": 1,
+        "submarines": 0,
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
@@ -26,6 +27,7 @@
         "MRL": 2,
         "drone": 49,
         "naval ship": 0,
+        "submarines": 0,
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 11,
@@ -47,5 +49,22 @@
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
         "cruise missiles": 0
+    },
+    {
+        "date": "2024-03-13",
+        "day": 749,
+        "aircraft": 0,
+        "helicopter": 0,
+        "tank": 0,
+        "APC": 0,
+        "field artillery": 0,
+        "MRL": 0,
+        "drone": -1,
+        "naval ship": 0,
+        "submarines": 0,
+        "anti-aircraft warfare": 0,
+        "special equipment": 0,
+        "vehicles and fuel tanks": 0,
+        "cruise missiles": -1
     }
 ]
