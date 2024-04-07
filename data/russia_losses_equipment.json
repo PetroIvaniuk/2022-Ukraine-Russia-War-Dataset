@@ -12776,5 +12776,22 @@
         "special equipment": 1854,
         "vehicles and fuel tanks": 14992,
         "cruise missiles": 2060
+    },
+    {
+        "date": "2024-04-07",
+        "day": 774,
+        "aircraft": 347,
+        "helicopter": 325,
+        "tank": 7074,
+        "APC": 13551,
+        "field artillery": 11316,
+        "MRL": 1036,
+        "drone": 8956,
+        "naval ship": 26,
+        "submarines": 1,
+        "anti-aircraft warfare": 749,
+        "special equipment": 1864,
+        "vehicles and fuel tanks": 15071,
+        "cruise missiles": 2064
     }
 ]
