@@ -4716,5 +4716,11 @@
         "day": 777,
         "personnel": 450080,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-04-11",
+        "day": 778,
+        "personnel": 450890,
+        "personnel*": "about"
     }
 ]
