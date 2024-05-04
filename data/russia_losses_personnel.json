@@ -4848,5 +4848,17 @@
         "day": 799,
         "personnel": 470870,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-05-03",
+        "day": 800,
+        "personnel": 472140,
+        "personnel*": "about"
+    },
+    {
+        "date": "2024-05-04",
+        "day": 801,
+        "personnel": 473400,
+        "personnel*": "about"
     }
 ]
