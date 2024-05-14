@@ -4908,5 +4908,17 @@
         "day": 809,
         "personnel": 482290,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-05-13",
+        "day": 810,
+        "personnel": 484030,
+        "personnel*": "about"
+    },
+    {
+        "date": "2024-05-14",
+        "day": 811,
+        "personnel": 485430,
+        "personnel*": "about"
     }
 ]
