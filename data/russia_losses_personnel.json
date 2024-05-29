@@ -5004,5 +5004,11 @@
         "day": 825,
         "personnel": 503800,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-05-29",
+        "day": 826,
+        "personnel": 505100,
+        "personnel*": "about"
     }
 ]
