@@ -117,5 +117,22 @@
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
         "cruise missiles": 1
+    },
+    {
+        "date": "2024-06-22",
+        "day": 850,
+        "aircraft": 0,
+        "helicopter": 0,
+        "tank": 0,
+        "APC": 0,
+        "field artillery": 0,
+        "MRL": 0,
+        "drone": 30,
+        "naval ship": 0,
+        "submarines": 0,
+        "anti-aircraft warfare": 0,
+        "special equipment": 0,
+        "vehicles and fuel tanks": 0,
+        "cruise missiles": 0
     }
 ]
