@@ -14572,11 +14572,28 @@
         "field artillery": 15586,
         "MRL": 1121,
         "anti-aircraft warfare": 896,
-        "drone": 12452,
+        "drone": 12402,
         "cruise missiles": 2401,
         "naval ship": 28,
         "submarines": 1,
         "vehicles and fuel tanks": 21036,
         "special equipment": 2616
+    },
+    {
+        "date": "2024-07-22",
+        "day": 880,
+        "aircraft": 362,
+        "helicopter": 326,
+        "tank": 8284,
+        "APC": 15980,
+        "field artillery": 15637,
+        "MRL": 1123,
+        "anti-aircraft warfare": 900,
+        "drone": 12475,
+        "cruise missiles": 2401,
+        "naval ship": 28,
+        "submarines": 1,
+        "vehicles and fuel tanks": 21138,
+        "special equipment": 2637
     }
 ]
