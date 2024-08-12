@@ -5454,5 +5454,11 @@
         "day": 900,
         "personnel": 590920,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-08-12",
+        "day": 901,
+        "personnel": 592000,
+        "personnel*": "about"
     }
 ]
