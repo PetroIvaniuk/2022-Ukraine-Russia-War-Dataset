@@ -5508,5 +5508,11 @@
         "day": 909,
         "personnel": 601800,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-08-21",
+        "day": 910,
+        "personnel": 603010,
+        "personnel*": "about"
     }
 ]
