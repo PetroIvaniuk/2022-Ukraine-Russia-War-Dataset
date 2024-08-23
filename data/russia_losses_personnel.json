@@ -5514,5 +5514,17 @@
         "day": 910,
         "personnel": 603010,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-08-22",
+        "day": 911,
+        "personnel": 604140,
+        "personnel*": "about"
+    },
+    {
+        "date": "2024-08-23",
+        "day": 912,
+        "personnel": 605330,
+        "personnel*": "about"
     }
 ]
