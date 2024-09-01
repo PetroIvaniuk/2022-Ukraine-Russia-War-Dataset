@@ -5568,5 +5568,17 @@
         "day": 919,
         "personnel": 613590,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-08-31",
+        "day": 920,
+        "personnel": 614950,
+        "personnel*": "about"
+    },
+    {
+        "date": "2024-09-01",
+        "day": 921,
+        "personnel": 616300,
+        "personnel*": "about"
     }
 ]
