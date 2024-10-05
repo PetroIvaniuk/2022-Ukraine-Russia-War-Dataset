@@ -15823,7 +15823,7 @@
     {
         "date": "2024-10-03",
         "day": 953,
-        "aircraft": 369,
+        "aircraft": 368,
         "helicopter": 328,
         "tank": 8893,
         "APC": 17596,
@@ -15840,7 +15840,7 @@
     {
         "date": "2024-10-04",
         "day": 954,
-        "aircraft": 369,
+        "aircraft": 368,
         "helicopter": 328,
         "tank": 8908,
         "APC": 17627,
@@ -15853,5 +15853,22 @@
         "submarines": 1,
         "vehicles and fuel tanks": 25820,
         "special equipment": 3333
+    },
+    {
+        "date": "2024-10-05",
+        "day": 955,
+        "aircraft": 368,
+        "helicopter": 328,
+        "tank": 8916,
+        "APC": 17658,
+        "field artillery": 19037,
+        "MRL": 1216,
+        "anti-aircraft warfare": 970,
+        "drone": 16529,
+        "cruise missiles": 2613,
+        "naval ship": 28,
+        "submarines": 1,
+        "vehicles and fuel tanks": 25905,
+        "special equipment": 3344
     }
 ]
