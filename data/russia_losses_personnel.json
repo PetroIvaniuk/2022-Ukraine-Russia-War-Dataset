@@ -5808,5 +5808,11 @@
         "day": 959,
         "personnel": 664120,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-10-10",
+        "day": 960,
+        "personnel": 665200,
+        "personnel*": "about"
     }
 ]
