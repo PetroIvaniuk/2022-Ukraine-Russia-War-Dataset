@@ -6300,5 +6300,11 @@
         "day": 1041,
         "personnel": 787940,
         "personnel*": "about"
+    },
+    {
+        "date": "2024-12-31",
+        "day": 1042,
+        "personnel": 789550,
+        "personnel*": "about"
     }
 ]
