@@ -6314,15 +6314,21 @@
         "personnel*": "about"
     },
     {
-        "date": "2024-01-02",
+        "date": "2025-01-02",
         "day": 1044,
         "personnel": 792170,
         "personnel*": "about"
     },
     {
-        "date": "2024-01-03",
+        "date": "2025-01-03",
         "day": 1045,
         "personnel": 793250,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-01-04",
+        "day": 1046,
+        "personnel": 794760,
         "personnel*": "about"
     }
 ]
