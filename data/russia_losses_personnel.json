@@ -6516,5 +6516,17 @@
         "day": 1077,
         "personnel": 842930,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-02-05",
+        "day": 1078,
+        "personnel": 844070,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-02-06",
+        "day": 1079,
+        "personnel": 845310,
+        "personnel*": "about"
     }
 ]
