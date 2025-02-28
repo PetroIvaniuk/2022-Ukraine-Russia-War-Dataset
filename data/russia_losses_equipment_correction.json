@@ -14,7 +14,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2023-05-27",
@@ -31,7 +32,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 11,
-        "cruise missiles": 31
+        "cruise missiles": 31,
+        "personnel": 0
     },
     {
         "date": "2023-10-03",
@@ -48,7 +50,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2024-03-13",
@@ -65,7 +68,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": -1
+        "cruise missiles": -1,
+        "personnel": 0
     },
     {
         "date": "2024-05-05",
@@ -82,7 +86,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": -3,
         "vehicles and fuel tanks": 44,
-        "cruise missiles": 19
+        "cruise missiles": 19,
+        "personnel": 0
     },
     {
         "date": "2024-05-25",
@@ -99,7 +104,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2024-05-29",
@@ -116,7 +122,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 1
+        "cruise missiles": 1,
+        "personnel": 0
     },
     {
         "date": "2024-06-22",
@@ -133,7 +140,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2024-06-23",
@@ -150,7 +158,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 6
+        "cruise missiles": 6,
+        "personnel": 0
     },
     {
         "date": "2024-07-15",
@@ -167,7 +176,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": -1
+        "cruise missiles": -1,
+        "personnel": 0
     },
     {
         "date": "2024-08-05",
@@ -184,7 +194,8 @@
         "anti-aircraft warfare": -1,
         "special equipment": 0,
         "vehicles and fuel tanks": 20,
-        "cruise missiles": 2
+        "cruise missiles": 2,
+        "personnel": 0
     },
     {
         "date": "2024-09-04",
@@ -201,7 +212,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 2
+        "cruise missiles": 2,
+        "personnel": 0
     },
     {
         "date": "2024-09-10",
@@ -218,7 +230,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 3
+        "cruise missiles": 3,
+        "personnel": 0
     },
     {
         "date": "2024-09-22",
@@ -235,7 +248,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": -2
+        "cruise missiles": -2,
+        "personnel": 0
     },
     {
         "date": "2024-09-27",
@@ -252,7 +266,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 9
+        "cruise missiles": 9,
+        "personnel": 0
     },
     {
         "date": "2024-10-03",
@@ -269,7 +284,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2024-10-09",
@@ -286,7 +302,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2024-10-22",
@@ -303,7 +320,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 1
+        "cruise missiles": 1,
+        "personnel": 0
     },
     {
         "date": "2024-11-02",
@@ -320,7 +338,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2024-11-30",
@@ -337,7 +356,8 @@
         "anti-aircraft warfare": 13,
         "special equipment": -85,
         "vehicles and fuel tanks": 87,
-        "cruise missiles": 0
+        "cruise missiles": 0,
+        "personnel": 0
     },
     {
         "date": "2024-12-15",
@@ -354,7 +374,8 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 80
+        "cruise missiles": 80,
+        "personnel": 0
     },
     {
         "date": "2025-01-07",
@@ -371,6 +392,25 @@
         "anti-aircraft warfare": 0,
         "special equipment": 0,
         "vehicles and fuel tanks": 0,
-        "cruise missiles": 8
+        "cruise missiles": 8,
+        "personnel": 0
+    },
+    {
+        "date": "2025-02-28",
+        "day": 1101,
+        "aircraft": 0,
+        "helicopter": 0,
+        "tank": 0,
+        "APC": 21,
+        "field artillery": 38,
+        "MRL": 3,
+        "drone": 0,
+        "naval ship": 0,
+        "submarines": 0,
+        "anti-aircraft warfare": 1,
+        "special equipment": -1,
+        "vehicles and fuel tanks": 26,
+        "cruise missiles": 21,
+        "personnel": 1650
     }
 ]
