@@ -18998,5 +18998,22 @@
         "submarines": 1,
         "vehicles and fuel tanks": 43120,
         "special equipment": 3790
+    },
+    {
+        "date": "2025-04-08",
+        "day": 1140,
+        "aircraft": 370,
+        "helicopter": 335,
+        "tank": 10572,
+        "APC": 22011,
+        "field artillery": 25860,
+        "MRL": 1359,
+        "anti-aircraft warfare": 1126,
+        "drone": 31917,
+        "cruise missiles": 3145,
+        "naval ship": 28,
+        "submarines": 1,
+        "vehicles and fuel tanks": 43227,
+        "special equipment": 3792
     }
 ]
