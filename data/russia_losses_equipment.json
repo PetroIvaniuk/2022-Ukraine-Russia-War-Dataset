@@ -19043,11 +19043,28 @@
         "field artillery": 25982,
         "MRL": 1359,
         "anti-aircraft warfare": 1127,
-        "drone": 32978,
+        "drone": 32078,
         "cruise missiles": 3145,
         "naval ship": 28,
         "submarines": 1,
         "vehicles and fuel tanks": 43514,
         "special equipment": 3796
+    },
+    {
+        "date": "2025-04-11",
+        "day": 1143,
+        "aircraft": 370,
+        "helicopter": 335,
+        "tank": 10580,
+        "APC": 22048,
+        "field artillery": 26043,
+        "MRL": 1360,
+        "anti-aircraft warfare": 1127,
+        "drone": 32200,
+        "cruise missiles": 3145,
+        "naval ship": 28,
+        "submarines": 1,
+        "vehicles and fuel tanks": 43679,
+        "special equipment": 3798
     }
 ]
