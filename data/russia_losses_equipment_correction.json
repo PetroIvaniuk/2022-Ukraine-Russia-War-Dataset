@@ -448,5 +448,23 @@
         "vehicles and fuel tanks": 0,
         "cruise missiles": 0,
         "personnel": 160
+    },
+    {
+        "date": "2025-05-04",
+        "day": 1166,
+        "aircraft": 0,
+        "helicopter": 0,
+        "tank": 2,
+        "APC": 10,
+        "field artillery": 41,
+        "MRL": 0,
+        "drone": 32,
+        "naval ship": 0,
+        "submarines": 0,
+        "anti-aircraft warfare": 1,
+        "special equipment": 0,
+        "vehicles and fuel tanks": 9,
+        "cruise missiles": -1,
+        "personnel": 0
     }
 ]
