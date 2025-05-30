@@ -7194,5 +7194,17 @@
         "day": 1190,
         "personnel": 983890,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-05-29",
+        "day": 1191,
+        "personnel": 984940,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-05-30",
+        "day": 1192,
+        "personnel": 986080,
+        "personnel*": "about"
     }
 ]
