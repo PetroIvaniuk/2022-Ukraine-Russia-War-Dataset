@@ -7278,5 +7278,11 @@
         "day": 1204,
         "personnel": 999200,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-06-12",
+        "day": 1205,
+        "personnel": 1000340,
+        "personnel*": "about"
     }
 ]
