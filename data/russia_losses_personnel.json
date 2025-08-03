@@ -7572,5 +7572,29 @@
         "day": 1253,
         "personnel": 1052190,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-07-31",
+        "day": 1254,
+        "personnel": 1053260,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-08-01",
+        "day": 1255,
+        "personnel": 1054200,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-08-02",
+        "day": 1256,
+        "personnel": 1055210,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-08-03",
+        "day": 1257,
+        "personnel": 1056130,
+        "personnel*": "about"
     }
 ]
