@@ -7686,5 +7686,17 @@
         "day": 1272,
         "personnel": 1070890,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-08-19",
+        "day": 1273,
+        "personnel": 1071780,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-08-20",
+        "day": 1274,
+        "personnel": 1072700,
+        "personnel*": "about"
     }
 ]
