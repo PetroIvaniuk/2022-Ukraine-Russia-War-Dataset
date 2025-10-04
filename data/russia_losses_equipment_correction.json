@@ -466,5 +466,23 @@
         "vehicles and fuel tanks": 9,
         "cruise missiles": -1,
         "personnel": 0
+    },
+    {
+        "date": "2025-10-03",
+        "day": 1318,
+        "aircraft": 0,
+        "helicopter": 0,
+        "tank": 0,
+        "APC": 0,
+        "field artillery": 64,
+        "MRL": 6,
+        "drone": -3,
+        "naval ship": 0,
+        "submarines": 0,
+        "anti-aircraft warfare": -2,
+        "special equipment": -9,
+        "vehicles and fuel tanks": -22,
+        "cruise missiles": 3,
+        "personnel": 0
     }
 ]
