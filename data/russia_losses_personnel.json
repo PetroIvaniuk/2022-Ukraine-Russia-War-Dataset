@@ -8004,5 +8004,17 @@
         "day": 1325,
         "personnel": 1120510,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-10-11",
+        "day": 1326,
+        "personnel": 1121570,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-10-12",
+        "day": 1327,
+        "personnel": 1122810,
+        "personnel*": "about"
     }
 ]

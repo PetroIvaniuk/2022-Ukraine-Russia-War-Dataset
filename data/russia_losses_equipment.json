@@ -22160,5 +22160,39 @@
         "submarines": 1,
         "vehicles and fuel tanks": 63775,
         "special equipment": 3973
+    },
+    {
+        "date": "2025-10-11",
+        "day": 1326,
+        "aircraft": 427,
+        "helicopter": 346,
+        "tank": 11247,
+        "APC": 23345,
+        "field artillery": 33568,
+        "MRL": 1518,
+        "anti-aircraft warfare": 1225,
+        "drone": 68766,
+        "cruise missiles": 3859,
+        "naval ship": 28,
+        "submarines": 1,
+        "vehicles and fuel tanks": 63847,
+        "special equipment": 3973
+    },
+    {
+        "date": "2025-10-12",
+        "day": 1327,
+        "aircraft": 427,
+        "helicopter": 346,
+        "tank": 11248,
+        "APC": 23345,
+        "field artillery": 33578,
+        "MRL": 1518,
+        "anti-aircraft warfare": 1225,
+        "drone": 69010,
+        "cruise missiles": 3859,
+        "naval ship": 28,
+        "submarines": 1,
+        "vehicles and fuel tanks": 63934,
+        "special equipment": 3976
     }
 ]
