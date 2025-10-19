@@ -22296,5 +22296,22 @@
         "submarines": 1,
         "vehicles and fuel tanks": 64672,
         "special equipment": 3980
+    },
+    {
+        "date": "2025-10-19",
+        "day": 1334,
+        "aircraft": 428,
+        "helicopter": 346,
+        "tank": 11268,
+        "APC": 23399,
+        "field artillery": 33834,
+        "MRL": 1524,
+        "anti-aircraft warfare": 1228,
+        "drone": 71967,
+        "cruise missiles": 3864,
+        "naval ship": 28,
+        "submarines": 1,
+        "vehicles and fuel tanks": 64798,
+        "special equipment": 3980
     }
 ]
