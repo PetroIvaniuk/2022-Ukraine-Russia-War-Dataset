@@ -8118,5 +8118,11 @@
         "day": 1344,
         "personnel": 1139900,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-10-30",
+        "day": 1345,
+        "personnel": 1140860,
+        "personnel*": "about"
     }
 ]
