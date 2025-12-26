@@ -8442,5 +8442,29 @@
         "day": 1398,
         "personnel": 1197860,
         "personnel*": "about"
+    },
+    {
+        "date": "2025-12-23",
+        "day": 1399,
+        "personnel": 1199280,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-12-24",
+        "day": 1400,
+        "personnel": 1200370,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-12-25",
+        "day": 1401,
+        "personnel": 1201230,
+        "personnel*": "about"
+    },
+    {
+        "date": "2025-12-26",
+        "day": 1402,
+        "personnel": 1202070,
+        "personnel*": "about"
     }
 ]
