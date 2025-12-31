@@ -484,5 +484,23 @@
         "vehicles and fuel tanks": -22,
         "cruise missiles": 3,
         "personnel": 0
+    },
+    {
+        "date": "2025-12-31",
+        "day": 1407,
+        "aircraft": 0,
+        "helicopter": 0,
+        "tank": 0,
+        "APC": 0,
+        "field artillery": 20,
+        "MRL": 3,
+        "drone": 200,
+        "naval ship": 0,
+        "submarines": 0,
+        "anti-aircraft warfare": 2,
+        "special equipment": 3,
+        "vehicles and fuel tanks": 110,
+        "cruise missiles": 0,
+        "personnel": 0
     }
 ]
