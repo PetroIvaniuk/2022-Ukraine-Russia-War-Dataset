@@ -8538,5 +8538,11 @@
         "day": 1414,
         "personnel": 1214500,
         "personnel*": "about"
+    },
+    {
+        "date": "2026-01-08",
+        "day": 1415,
+        "personnel": 1215900,
+        "personnel*": "about"
     }
 ]
