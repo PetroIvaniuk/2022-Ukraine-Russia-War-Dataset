@@ -24315,7 +24315,7 @@
         "anti-aircraft warfare": 1300,
         "drone": 134306,
         "cruise missiles": 4286,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 78388,
         "special equipment": 4071
@@ -24332,7 +24332,7 @@
         "anti-aircraft warfare": 1300,
         "drone": 134858,
         "cruise missiles": 4286,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 78485,
         "special equipment": 4071
@@ -24349,7 +24349,7 @@
         "anti-aircraft warfare": 1301,
         "drone": 135459,
         "cruise missiles": 4286,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 78654,
         "special equipment": 4071
@@ -24366,7 +24366,7 @@
         "anti-aircraft warfare": 1301,
         "drone": 136073,
         "cruise missiles": 4288,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 78725,
         "special equipment": 4071
@@ -24383,7 +24383,7 @@
         "anti-aircraft warfare": 1302,
         "drone": 137924,
         "cruise missiles": 4314,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 78919,
         "special equipment": 4072
@@ -24400,7 +24400,7 @@
         "anti-aircraft warfare": 1302,
         "drone": 138330,
         "cruise missiles": 4314,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 79036,
         "special equipment": 4072
@@ -24417,7 +24417,7 @@
         "anti-aircraft warfare": 1303,
         "drone": 138881,
         "cruise missiles": 4314,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 79112,
         "special equipment": 4073
@@ -24434,7 +24434,7 @@
         "anti-aircraft warfare": 1303,
         "drone": 140408,
         "cruise missiles": 4314,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 79295,
         "special equipment": 4073
@@ -24451,7 +24451,7 @@
         "anti-aircraft warfare": 1303,
         "drone": 142113,
         "cruise missiles": 4314,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 79500,
         "special equipment": 4073
@@ -24468,7 +24468,7 @@
         "anti-aircraft warfare": 1304,
         "drone": 143878,
         "cruise missiles": 4347,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 79636,
         "special equipment": 4073
@@ -24485,7 +24485,7 @@
         "anti-aircraft warfare": 1305,
         "drone": 145571,
         "cruise missiles": 4347,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 79826,
         "special equipment": 4074
@@ -24502,7 +24502,7 @@
         "anti-aircraft warfare": 1305,
         "drone": 146457,
         "cruise missiles": 4347,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 79971,
         "special equipment": 4075
@@ -24519,7 +24519,7 @@
         "anti-aircraft warfare": 1305,
         "drone": 147138,
         "cruise missiles": 4347,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 80064,
         "special equipment": 4075
@@ -24536,7 +24536,7 @@
         "anti-aircraft warfare": 1305,
         "drone": 148021,
         "cruise missiles": 4384,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 80180,
         "special equipment": 4075
@@ -24553,7 +24553,7 @@
         "anti-aircraft warfare": 1305,
         "drone": 149637,
         "cruise missiles": 4384,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 80329,
         "special equipment": 4075
@@ -24570,7 +24570,7 @@
         "anti-aircraft warfare": 1308,
         "drone": 151359,
         "cruise missiles": 4384,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 80510,
         "special equipment": 4075
@@ -24587,9 +24587,26 @@
         "anti-aircraft warfare": 1313,
         "drone": 153169,
         "cruise missiles": 4384,
-        "naval ship": 28,
+        "naval ship": 29,
         "submarines": 2,
         "vehicles and fuel tanks": 80757,
+        "special equipment": 4076
+    },
+    {
+        "date": "2026-03-03",
+        "day": 1469,
+        "aircraft": 435,
+        "helicopter": 348,
+        "tank": 11718,
+        "APC": 24131,
+        "field artillery": 37842,
+        "MRL": 1665,
+        "anti-aircraft warfare": 1319,
+        "drone": 154698,
+        "cruise missiles": 4384,
+        "naval ship": 30,
+        "submarines": 2,
+        "vehicles and fuel tanks": 80992,
         "special equipment": 4076
     }
 ]
