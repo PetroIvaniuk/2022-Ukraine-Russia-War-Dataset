@@ -9546,5 +9546,17 @@
         "day": 1582,
         "personnel": 1395790,
         "personnel*": "about"
+    },
+    {
+        "date": "2026-06-25",
+        "day": 1583,
+        "personnel": 1397060,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-06-26",
+        "day": 1584,
+        "personnel": 1398370,
+        "personnel*": "about"
     }
 ]
