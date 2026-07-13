@@ -26906,5 +26906,23 @@
         "submarines": 2,
         "vehicles and fuel tanks": 119038,
         "special equipment": 4407
+    },
+    {
+        "date": "2026-07-13",
+        "day": 1601,
+        "aircraft": 437,
+        "helicopter": 353,
+        "tank": 12125,
+        "APC": 24931,
+        "field artillery": 45865,
+        "MRL": 1929,
+        "anti-aircraft warfare": 1489,
+        "ground robotic systems": 1894,
+        "drone": 405693,
+        "cruise missiles": 4896,
+        "naval ship": 33,
+        "submarines": 2,
+        "vehicles and fuel tanks": 119532,
+        "special equipment": 4412
     }
 ]
