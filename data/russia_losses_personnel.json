@@ -9684,5 +9684,17 @@
         "day": 1605,
         "personnel": 1425990,
         "personnel*": "about"
+    },
+    {
+        "date": "2026-07-18",
+        "day": 1606,
+        "personnel": 1427410,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-07-19",
+        "day": 1607,
+        "personnel": 1428930,
+        "personnel*": "about"
     }
 ]
