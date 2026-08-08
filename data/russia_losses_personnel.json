@@ -9806,9 +9806,15 @@
         "personnel*": "about"
     },
     {
+        "date": "2026-08-07",
+        "day": 1626,
+        "personnel": 1455420,
+        "personnel*": "about"
+    },
+    {
         "date": "2026-08-08",
         "day": 1627,
-        "personnel": 1455420,
+        "personnel": 1456610,
         "personnel*": "about"
     }
 ]
