@@ -27455,7 +27455,7 @@
         "tank": 12259,
         "APC": 25127,
         "field artillery": 47773,
-        "MRL": 2023,
+        "MRL": 2022,
         "anti-aircraft warfare": 1561,
         "ground robotic systems": 2203,
         "drone": 456339,
@@ -27464,5 +27464,23 @@
         "submarines": 2,
         "vehicles and fuel tanks": 132931,
         "special equipment": 4516
+    },
+    {
+        "date": "2026-08-13",
+        "day": 1632,
+        "aircraft": 439,
+        "helicopter": 354,
+        "tank": 12262,
+        "APC": 25130,
+        "field artillery": 47824,
+        "MRL": 2023,
+        "anti-aircraft warfare": 1562,
+        "ground robotic systems": 2215,
+        "drone": 457973,
+        "cruise missiles": 5007,
+        "naval ship": 35,
+        "submarines": 2,
+        "vehicles and fuel tanks": 133405,
+        "special equipment": 4522
     }
 ]
