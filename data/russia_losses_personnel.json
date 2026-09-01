@@ -9954,5 +9954,11 @@
         "day": 1650,
         "personnel": 1488200,
         "personnel*": "about"
+    },
+    {
+        "date": "2026-09-01",
+        "day": 1651,
+        "personnel": 1489640,
+        "personnel*": "about"
     }
 ]
