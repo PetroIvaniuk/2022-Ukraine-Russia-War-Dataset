@@ -10128,5 +10128,23 @@
         "day": 1679,
         "personnel": 1532500,
         "personnel*": "about"
+    },
+    {
+        "date": "2026-09-30",
+        "day": 1680,
+        "personnel": 1533970,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-10-01",
+        "day": 1681,
+        "personnel": 1535870,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-10-02",
+        "day": 1682,
+        "personnel": 1537390,
+        "personnel*": "about"
     }
 ]
