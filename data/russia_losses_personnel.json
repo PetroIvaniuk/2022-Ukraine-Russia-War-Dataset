@@ -10194,5 +10194,17 @@
         "day": 1690,
         "personnel": 1550910,
         "personnel*": "about"
+    },
+    {
+        "date": "2026-10-11",
+        "day": 1691,
+        "personnel": 1552840,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-10-12",
+        "day": 1692,
+        "personnel": 1554310,
+        "personnel*": "about"
     }
 ]
