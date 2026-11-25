@@ -10448,9 +10448,27 @@
         "personnel*": "about"
     },
     {
-        "date": "2026-11-23",
+        "date": "2026-11-22",
         "day": 1733,
         "personnel": 1637170,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-11-23",
+        "day": 1734,
+        "personnel": 1639641,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-11-24",
+        "day": 1735,
+        "personnel": 1641489,
+        "personnel*": "about"
+    },
+    {
+        "date": "2026-11-25",
+        "day": 1736,
+        "personnel": 1643580,
         "personnel*": "about"
     }
 ]
